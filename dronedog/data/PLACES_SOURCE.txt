@@ -1,0 +1,33 @@
+DroneDog offline reverse-geocoder data
+=======================================
+
+File:          places.npz  (3405186 bytes)
+SHA-256:       7d246c8a100acea1e694a2f39dcdcc37d93c28cd27d7e35e2eeb825641ad1e69
+Built by:      tools/make_places.py
+Source:        GeoNames geographical database, cities500 dump
+Download date: 2026-10-22
+Licence:       Creative Commons Attribution 4.0 International (CC BY 4.0)
+               https://creativecommons.org/licenses/by/4.0/
+Attribution:   Contains GeoNames data, CC BY 4.0, geonames.org
+
+Source URLs and SHA-256 of the files as downloaded:
+  https://download.geonames.org/export/dump/cities500.zip
+    3b8292a6ffcb11d87aa3b2dff47972fb0c8c0ed7245d54227db8f2ca1c81fc7f
+  https://download.geonames.org/export/dump/admin1CodesASCII.txt
+    b577baa3476bbe94f0454545e517e1835401d79c5b1105c8e02cf1d4a505e8ec
+  https://download.geonames.org/export/dump/admin2Codes.txt
+    9a02d20e82cbfd1713d13546ac73c8756c0b09096f7c7900a8d6fa6a0763c93d
+  https://download.geonames.org/export/dump/countryInfo.txt
+    c55f638cfaafb4fe45a9aa15120a0f1f78e8a34a8e1847d7b9320cf740fbc9ab
+
+Places kept:   225868 (feature class P; dropped feature codes: PPLCH, PPLH, PPLQ, PPLW, PPLX)
+Fields kept:   lat, lon, name, admin1 (state/province) name + code, admin2
+               (county/district) name, country name + ISO code, population,
+               feature code.
+
+Modifications: rows filtered and re-encoded as described above; names and
+               coordinates are unchanged from GeoNames.
+
+Meaning: a result is the nearest named populated place in GeoNames to a
+coordinate. It is not a postal address and not a statement of which
+jurisdiction's boundary contains the point.

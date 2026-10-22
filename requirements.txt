@@ -1,0 +1,15 @@
+# DroneDog Python dependencies (Python 3.13, venv at .venv). Pin exact versions.
+# The Rust core (dronedog_core) is built separately:
+#   .venv\Scripts\maturin develop -m core\Cargo.toml --release
+
+# --- runtime -----------------------------------------------------------------
+pytsk3==20260715          # The Sleuth Kit 4.15 bindings: volume systems + FAT/exFAT/NTFS/ext walking
+libewf-python==20260924   # pyewf: E01/Ex01 segment sets
+pywebview==6.2.1          # desktop window host (ui/)
+psutil==7.2.2             # ui/netmon.py: OS socket view of the app + WebView2 processes (D11)
+
+# --- build / test (not shipped) ------------------------------------------------
+maturin==1.15.0           # builds core/ into the venv
+pytest==9.1.1
+gdown==6.4.2              # tools/cfreds_fetch.py corpus download only
+Pillow==13.0.0            # runtime: report maps (report/staticmap.py); also QA screenshots

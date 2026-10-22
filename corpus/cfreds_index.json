@@ -1,0 +1,3595 @@
+{
+ "DF001": {
+  "model": "DJI Phantom 3",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeUkVoOXJVM3FwSEk",
+    "name": "DF001_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-8F_S_JYFzd5Xu86o2VZknA",
+    "size": 7948206080,
+    "path": "2017_June/SDCard_external/DF001_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNmtsX3IwbWZoR28",
+    "name": "DF001_microsd_external.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-dFr4IdwV2GtmohdtFkXQRQ",
+    "size": 32,
+    "path": "2017_June/SDCard_external/DF001_microsd_external.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeTjdNVEJHNHRqRjA",
+    "name": "DF001_microsd_external.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0--wYOk-TdG3JXa6aZHK25qA",
+    "size": 40,
+    "path": "2017_June/SDCard_external/DF001_microsd_external.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYnpwX3RscUdwOVk",
+    "name": "README_DF001_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-lHuiXDiqdFVcENChj7ThDA",
+    "size": 32,
+    "path": "2017_June/README_DF001_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeTmFYSTVtM0FyUG8",
+    "name": "README_DF001_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-56F1ZIolbFjeDDbGq2ADkQ",
+    "size": 40,
+    "path": "2017_June/README_DF001_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMWJ1dXh4MEl0U2c",
+    "name": "README_DF001_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-GDm8bgayP6L937D16LcFzQ",
+    "size": 2874,
+    "path": "2017_June/README_DF001_Drone_Forensics_Program_20170822.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZUczVDRyc2xmWE0",
+    "name": "README_DF001_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-kGskndunZutfs0HD7J7SxQ",
+    "size": 2855,
+    "path": "2017_June/README_DF001_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "16yXDWkGk2wqHrSGAyZ-yg9EVF_WwHAB5",
+    "name": "flight_logs.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 911684576,
+    "path": "2018_June/flight_logs/flight_logs.zip"
+   },
+   {
+    "id": "1y6w4r2dXl34PD9z5_PQ59MYHRGWWn1W-",
+    "name": "Media01.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 119644024,
+    "path": "2018_June/mobile_android/Media01.zip"
+   },
+   {
+    "id": "1rHzC1ExIkhYNq_fT6duEDJixUnOetuFc",
+    "name": "ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 159964247,
+    "path": "2018_June/mobile_iOS/ios_backup.zip"
+   },
+   {
+    "id": "1vj3S9GxQM8i34UPtNDlyqJRrMuDQ2SDH",
+    "name": "README_DF001_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3206,
+    "path": "2018_June/README_DF001_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "1iaCmNauEEjVZh72WfQQPeo-QA1-_1oPy",
+    "name": "README_DF001_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF001_Drone_Forensics_Program_June_2018.txt.MD5"
+   },
+   {
+    "id": "1WPP2adzD9SiMO5JH92Pi94bvgj0Y3uTe",
+    "name": "README_DF001_Drone_Forensics_Program_June_2018.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF001_Drone_Forensics_Program_June_2018.txt.SHA1"
+   }
+  ]
+ },
+ "DF002": {
+  "model": "DJI Phantom 3",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeeWtLb0FXZnB6NzA",
+    "name": "DF002_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-YAljK3-JmE19Kfkzfo9PWw",
+    "size": 32,
+    "path": "2017_June/mobile_android_backup/DF002_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSedC1VQnFNTGJMRmc",
+    "name": "DF002_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-bHFYPKZqxuezsv538TDwfQ",
+    "size": 40,
+    "path": "2017_June/mobile_android_backup/DF002_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQWV3LVJObnFPWG8",
+    "name": "DF002_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-C_gFop5u7qrLebbegkOVKA",
+    "size": 140663130,
+    "path": "2017_June/mobile_android_backup/DF002_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMUt4ZHNDUFlIblU",
+    "name": "DF002_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-qCL65PlkVC6OYSVuqnlh6w",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF002_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZEVuR1QwVlNCSFE",
+    "name": "DF002_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-WGlU7fwrN5tQzZ_XBmWCCQ",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF002_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYWE4Y1YtMjlRblU",
+    "name": "DF002_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-8VX5hMNxNzuPOA_Zzfnh4Q",
+    "size": 204113120,
+    "path": "2017_June/mobile_iOS_backup/DF002_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeWTI3MG5BX3BxRm8",
+    "name": "DF002_setup.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-dkWJGLvrUiz3bQoLEf0cxg",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF002_setup.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeN3VTbzVMSXdZblE",
+    "name": "DF002_setup.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-yjVjj6RHF5AHSuGy2IYwfA",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF002_setup.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeM0pTRmxuM19ER0k",
+    "name": "DF002_setup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-4JepImXvo9bCkg56u40_4A",
+    "size": 204108010,
+    "path": "2017_June/mobile_iOS_backup/DF002_setup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeXzVtcEktTXVXbkE",
+    "name": "DF002_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-m1Bw2PteatCzs573zf0X3w",
+    "size": 7948206080,
+    "path": "2017_June/SDCard_external/DF002_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMXh6Skw1R2lhMjg",
+    "name": "DF002_microsd_external.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-FPgY77HJd93dSqFLcD8MtA",
+    "size": 32,
+    "path": "2017_June/SDCard_external/DF002_microsd_external.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUkQ1ejRsV2FsM3c",
+    "name": "DF002_microsd_external.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-ipABN5FvKI2FG_0pvySsag",
+    "size": 40,
+    "path": "2017_June/SDCard_external/DF002_microsd_external.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeemlvZ1VTYW5jbk0",
+    "name": "README_DF002_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-mICPtcLYc0dayAHZ7InUMA",
+    "size": 32,
+    "path": "2017_June/README_DF002_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZVk5MWpGbmJYTjg",
+    "name": "README_DF002_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-gVcg20R-b4J0-ihhI52G1Q",
+    "size": 32,
+    "path": "2017_June/README_DF002_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZVpwZHdpclg0VUU",
+    "name": "README_DF002_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-jEpNx68f_EqfpkhxYgz-Ug",
+    "size": 3368,
+    "path": "2017_June/README_DF002_Drone_Forensics_Program_20170822.txt"
+   }
+  ]
+ },
+ "DF003": {
+  "model": "DJI Phantom 3",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeYjdOZWcxUF83VlU",
+    "name": "DF003_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-12lnDnTxTdbq91HFOaNEsQ",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF003_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeM25lQmVnYUhBY00",
+    "name": "DF003_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-FVAohm8BId246aqjwA8Dhw",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF003_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSebkhtQ1k4QXNfa0E",
+    "name": "DF003_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-x2JLiNcFsgqKPoxcZTfJjA",
+    "size": 217591199,
+    "path": "2017_June/mobile_iOS_backup/DF003_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSedlVFUjZKeVdtdkk",
+    "name": "DF003_setup.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-KRN4rHOZeJPzmHNaDS9IHQ",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF003_setup.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeODA4OVAtRlZIOXc",
+    "name": "DF003_setup.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-n7sR8fOgv5Va0M-mhKm6LA",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF003_setup.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMUJ2RHhfbGdLWDQ",
+    "name": "DF003_setup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-PSPcipNgwG3EuYu3iKMb_A",
+    "size": 217587853,
+    "path": "2017_June/mobile_iOS_backup/DF003_setup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeaC1JanFjenNhRmc",
+    "name": "DF003_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-762sUKBOl3zCfLXbi0eMcQ",
+    "size": 7948206080,
+    "path": "2017_June/SDCard_external/DF003_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNFhZZUNRc3JBOTA",
+    "name": "DF003_microsd_external.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-wIBE9z3By61jv_woYAIYgw",
+    "size": 32,
+    "path": "2017_June/SDCard_external/DF003_microsd_external.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeX3prQW5ydWdQb3M",
+    "name": "DF003_microsd_external.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-5-qlaWRZTWtYNXzHmtI-5A",
+    "size": 40,
+    "path": "2017_June/SDCard_external/DF003_microsd_external.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeVlp1UVFWdnc0X3M",
+    "name": "DF003_microsd_internal.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-MMqX-7ycRdG4lPaxqfh6dw",
+    "size": 3965190144,
+    "path": "2017_June/SDCard_internal/DF003_microsd_internal.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSedGVuQVc0enlsbXc",
+    "name": "DF003_microsd_internal.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Ri5vEj_7eoSLbfMDc-W1ZA",
+    "size": 32,
+    "path": "2017_June/SDCard_internal/DF003_microsd_internal.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSjVtdnRaOUZPV2M",
+    "name": "DF003_microsd_internal.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-5qlPOvxUaU2KCwcvcwXysA",
+    "size": 40,
+    "path": "2017_June/SDCard_internal/DF003_microsd_internal.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeOWtUeUtlWFk4VGM",
+    "name": "README_DF003_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-6BO2eBKY9bHHv-dGdvClIA",
+    "size": 40,
+    "path": "2017_June/README_DF003_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeR1V5dDZuNFRRRW8",
+    "name": "README_DF003_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-nr9Qj4S7vSlJP8N6nckJfg",
+    "size": 40,
+    "path": "2017_June/README_DF003_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZzB6ZW9Id05GM3c",
+    "name": "README_DF003_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-9-8Bs9xJ2ceC-OIF1HcqDw",
+    "size": 3360,
+    "path": "2017_June/README_DF003_Drone_Forensics_Program_20170822.txt"
+   }
+  ]
+ },
+ "DF004": {
+  "model": "DJI Phantom 4",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeT0t2UjFxRlZuRUE",
+    "name": "DF004_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-eMXu196eSRKJxP7ZEtVbPQ",
+    "size": 16022241280,
+    "path": "2017_June/SDCard_external/DF004_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSec0FzTHlualRSNnc",
+    "name": "DF004_microsd_external.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-6ceP0zJv8A4sHyVpxax7Lw",
+    "size": 32,
+    "path": "2017_June/SDCard_external/DF004_microsd_external.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeanl2X2NERGdxUDg",
+    "name": "DF004_microsd_external.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-kzMUzsKigkyBCpCALXrOfg",
+    "size": 40,
+    "path": "2017_June/SDCard_external/DF004_microsd_external.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNEp6dGpOd2tiMms",
+    "name": "README_DF004_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-gIWQr6anh-T6fQO3AYh_Mg",
+    "size": 32,
+    "path": "2017_June/README_DF004_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUThkcURiX0xNLUU",
+    "name": "README_DF004_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-guVEkI2MP-dz3yOOS08YPw",
+    "size": 40,
+    "path": "2017_June/README_DF004_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSec281TE9JRmFsMWs",
+    "name": "README_DF004_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-SDX8EmrZu06dyaviWCruzA",
+    "size": 2878,
+    "path": "2017_June/README_DF004_Drone_Forensics_Program_20170822.txt"
+   },
+   {
+    "id": "17Un3e2DOGncDmGkPWK2DWj_vyfJtblXY",
+    "name": "flight_logs.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 4585803255,
+    "path": "2018_June/flight_logs.zip"
+   },
+   {
+    "id": "19q4brQI4ro6BqnuKuAA6WQn5WjtB6HH2",
+    "name": "README_DF004_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 2895,
+    "path": "2018_June/README_DF004_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "13Fvs9Bmf3Dcrmpm86MRzf3cCVHLWSkMW",
+    "name": "README_DF004_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF004_Drone_Forensics_Program_June_2018.txt.MD5"
+   },
+   {
+    "id": "1nhZbO5A5eJi5wM2tnEGzkRri44TB1fKi",
+    "name": "README_DF004_Drone_Forensics_Program_June_2018.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF004_Drone_Forensics_Program_June_2018.txt.SHA1"
+   }
+  ]
+ },
+ "DF005": {
+  "model": "DJI Phantom 4",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeUXVES1lRaXRac3c",
+    "name": "DF005_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-kubdeeb5LIcudsbvlztpTQ",
+    "size": 688981303,
+    "path": "2017_June/mobile_android_backup/DF005_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSedEo0Wjd4WUs3TW8",
+    "name": "DF005_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-0q9Kc8RxVQ36kkZAZx8zGQ",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF005_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeckVXWDloSDFHd3M",
+    "name": "DF005_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-rX37nxLF_3s4uz2FnXy4Fg",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF005_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeY2U0cXRqVE9BR0U",
+    "name": "DF005_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-juLPVHbhVZg-IPweKEgadQ",
+    "size": 275847211,
+    "path": "2017_June/mobile_iOS_backup/DF005_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNDdwcXNiWHU2bUE",
+    "name": "DF005_setup.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-U9HSq3hWNCx9knjkwG_i4Q",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF005_setup.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNklEY2twdjlNRm8",
+    "name": "DF005_setup.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-5ryKy32nNf14xp2vh7LIKw",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF005_setup.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeVXFyaEZzTXJvUXc",
+    "name": "DF005_setup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-iP6LdY7x_IA_QwcHBhRgxQ",
+    "size": 275842699,
+    "path": "2017_June/mobile_iOS_backup/DF005_setup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeVDBWNFkta1h6SDg",
+    "name": "DF005_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-AR-12FHJMmb3N_4FvzqZuw",
+    "size": 16022241280,
+    "path": "2017_June/SDCard_external/DF005_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSebS05YmFpYnd2eDg",
+    "name": "DF005_microsd_external.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-jUkiJ0zAhR9XRl6Kyk3u_Q",
+    "size": 32,
+    "path": "2017_June/SDCard_external/DF005_microsd_external.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSHVjajAzaGJZVmM",
+    "name": "DF005_microsd_external.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-t4CSPRw0PpQoHTyFeZoIMA",
+    "size": 40,
+    "path": "2017_June/SDCard_external/DF005_microsd_external.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeVG4xTWM3M3Z1WDA",
+    "name": "README_DF005_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-6j_SZSDbC2LMv_pMI8fNVw",
+    "size": 32,
+    "path": "2017_June/README_DF005_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeX3lWUW5DWU1QSVE",
+    "name": "README_DF005_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-MQMT8sXJH-NpGENzdfI6Yw",
+    "size": 40,
+    "path": "2017_June/README_DF005_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSkFrcnpUeWktdHM",
+    "name": "README_DF005_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-xV460djJ-j-KB_-x9_-zTg",
+    "size": 3371,
+    "path": "2017_June/README_DF005_Drone_Forensics_Program_20170822.txt"
+   },
+   {
+    "id": "1APaoHOs5TFY4m_Zj8Dgm7xgJ8rnyDenu",
+    "name": "flight_logs.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 2918643222,
+    "path": "2018_June/flight_logs/flight_logs.zip"
+   },
+   {
+    "id": "1s5VA4TIv59jd-8z7_UYMpkbmPgn-HMVB",
+    "name": "ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 54217492,
+    "path": "2018_June/mobile_iOS/ios_backup.zip"
+   },
+   {
+    "id": "1ufhCRJgIYwyLCxihLQKU_p6lLIgIxr1_",
+    "name": "README_DF005_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3055,
+    "path": "2018_June/README_DF005_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1C6teUYGJsDAAeYzH6PZxvdT1jpm68F2x",
+    "name": "README_DF005_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF005_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1wlRN0wQF8BATryqLxjJn11xfzoeseiVD",
+    "name": "README_DF005_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF005_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF006": {
+  "model": "DJI Phantom 4",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSebG51Nl9aREJpaGc",
+    "name": "DF006_ic_flash_top_chip_2.img",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-4s7RsI1ZGgAqa_NJgP7Neg",
+    "size": 3917479936,
+    "path": "2017_June/chipoff_IC_flash_top_chip_2/DF006_ic_flash_top_chip_2.img"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSzZHWW9UQjBwU2c",
+    "name": "DF006_ic_flash_top_chip_2.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-dmX3aPA_QCxlpFI7IRkQWA",
+    "size": 32,
+    "path": "2017_June/chipoff_IC_flash_top_chip_2/DF006_ic_flash_top_chip_2.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeS2tpTHBNdUUxZzA",
+    "name": "DF006_ic_flash_top_chip_2.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-g4CqM9IFNkhx4M1yYFSEfg",
+    "size": 40,
+    "path": "2017_June/chipoff_IC_flash_top_chip_2/DF006_ic_flash_top_chip_2.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeWXRzVGRCWFR4bWc",
+    "name": "DF006_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-8N9qnJME3h1f9ceJ3OOg0w",
+    "size": 32,
+    "path": "2017_June/mobile_android_backup/DF006_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNVdWaW9FdHhWbEk",
+    "name": "DF006_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-u0ZINwlqtyhUOGzuqflTzQ",
+    "size": 32,
+    "path": "2017_June/mobile_android_backup/DF006_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQUUzUGxRNmJtTGs",
+    "name": "DF006_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-jTSEtJK7N_lb3Uo0Tg6Kpg",
+    "size": 40,
+    "path": "2017_June/mobile_android_backup/DF006_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeeXRrbVBIcEJsdUU",
+    "name": "DF006_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-zPyybl01U2_ZxU6yhf3f-A",
+    "size": 40,
+    "path": "2017_June/mobile_android_backup/DF006_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSebDJzTDVZS1Q4NjQ",
+    "name": "DF006_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-_bQSHQ68mJAoCqbNbpqhew",
+    "size": 466890071,
+    "path": "2017_June/mobile_android_backup/DF006_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeaFFTQlZFZjdyY0k",
+    "name": "DF006_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-3we96AODHVq9SHyGEJ5DNA",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF006_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeekRlX2hDVUR3OEU",
+    "name": "DF006_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-gsFiXy68O4toV0aVA7y_wg",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF006_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYXpZY19QY1FQeFk",
+    "name": "DF006_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-wXuhcY23wcl6UCl1IRdkmA",
+    "size": 993349365,
+    "path": "2017_June/mobile_iOS_backup/DF006_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeRml1LUt3QmN1dUk",
+    "name": "DF006_setup.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-5vJDiGipqAJbEimZWwJgpw",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF006_setup.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZzFYNWZEZk90Mms",
+    "name": "DF006_setup.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-BUpjSTjvLgXUm7kYuq4CqA",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF006_setup.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMXM1S2VJbjBBQmM",
+    "name": "DF006_setup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-2wJm8nNrGRc3clmiWWWLBg",
+    "size": 993344756,
+    "path": "2017_June/mobile_iOS_backup/DF006_setup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZUtfM2tkZmVpS2s",
+    "name": "DF006_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-SOVLIRGWQ8NTBSOJVVlSVg",
+    "size": 16022241280,
+    "path": "2017_June/SDCard_external/DF006_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUHVHRDJwLVRWaDA",
+    "name": "DF006_microsd_external.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-nSemM06n-SqJVHkaP3hB5w",
+    "size": 32,
+    "path": "2017_June/SDCard_external/DF006_microsd_external.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSebjNzU2xxMzI2QVk",
+    "name": "DF006_microsd_external.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-2EHpCtd2bP46jC4IKt5BPQ",
+    "size": 40,
+    "path": "2017_June/SDCard_external/DF006_microsd_external.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSec0VwVUYwRHF4Y1U",
+    "name": "DF006_microsd_internal.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-fWaRWcT3AIA0J5qnt-2rFA",
+    "size": 7969177600,
+    "path": "2017_June/SDCard_internal/DF006_microsd_internal.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeS0xYUkFDdW1nOFE",
+    "name": "DF006_microsd_internal.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-sYNnuxFwgE2f7WzrhhKFQA",
+    "size": 7969177600,
+    "path": "2017_June/SDCard_internal/DF006_microsd_internal.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZTl0azA5ZWtud2c",
+    "name": "DF006_microsd_internal.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-VDMEpVQgRyPA1faPwCk_JQ",
+    "size": 32,
+    "path": "2017_June/SDCard_internal/DF006_microsd_internal.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUzI4dW5SRWs1VVU",
+    "name": "DF006_microsd_internal.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-SccE4K_Z5P1_g6kWI4X9fQ",
+    "size": 40,
+    "path": "2017_June/SDCard_internal/DF006_microsd_internal.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUDRwNHZvamtvdEU",
+    "name": "README_DF006_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-0-ZbuCd9LF93aF1jFemkLA",
+    "size": 32,
+    "path": "2017_June/README_DF006_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeRDBOa2lESzlFQUU",
+    "name": "README_DF006_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-cjMqnGkle_yI9p2_0x6LTQ",
+    "size": 40,
+    "path": "2017_June/README_DF006_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeWU1Wb1M0dE9ybFU",
+    "name": "README_DF006_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-GdOQX9ZWyFbleMaTKCXIdg",
+    "size": 3550,
+    "path": "2017_June/README_DF006_Drone_Forensics_Program_20170822.txt"
+   }
+  ]
+ },
+ "DF007": {
+  "model": "DJI Spark",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeLURTYU9XUzdoNEk",
+    "name": "DF007_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-FYIK0JutT0qqwitm3xupNw",
+    "size": 31914983424,
+    "path": "2017_June/SDCard_external/DF007_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSebHBjTXZkbHBCNFk",
+    "name": "README_DF007_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-lt0x_1TkAtwNWCGpmEvG1Q",
+    "size": 32,
+    "path": "2017_June/README_DF007_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeRzdsdmhkVGR5elE",
+    "name": "README_DF007_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-l6hXlIUtDvLaQ_UOnTnU_g",
+    "size": 40,
+    "path": "2017_June/README_DF007_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSebVBGUEROLXc5eVk",
+    "name": "README_DF007_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-mQIlTBkrw75f283YydKCYA",
+    "size": 2862,
+    "path": "2017_June/README_DF007_Drone_Forensics_Program_20170822.txt"
+   },
+   {
+    "id": "1AIASCkeAghIHatRlZtLynB6-_kjnMMcy",
+    "name": "DJI_Assistant_Export.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 7950694,
+    "path": "2018_June/DJI_Assistant_export/DJI_Assistant_Export.zip"
+   },
+   {
+    "id": "1sltByQCDN1UIQigZN7jfsTWo1uJ-riqc",
+    "name": "ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 259195869,
+    "path": "2018_June/mobile_iOS/ios_backup.zip"
+   },
+   {
+    "id": "1NHXOlKaYAT-H62GRjJJOFE6D_ECUEHbR",
+    "name": "README_DF007_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3043,
+    "path": "2018_June/README_DF007_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "1XtlgtpF6QgLb8Y8_MyFbhDusrVFkEWZ0",
+    "name": "README_DF007_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF007_Drone_Forensics_Program_June_2018.txt.MD5"
+   },
+   {
+    "id": "1C2HYN7dA5M-HsJMZcWF8fCJC7s1KwEzn",
+    "name": "README_DF007_Drone_Forensics_Program_June_2018.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF007_Drone_Forensics_Program_June_2018.txt.SHA1"
+   }
+  ]
+ },
+ "DF008": {
+  "model": "DJI Spark",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeOWptS1ZpdW05RmM",
+    "name": "DF008_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-deFqL-MRD2wEVxdcORj2jw",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF008_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeTkh5NXhUb0kyajg",
+    "name": "DF008_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-uANohLsXlSVqdtDUh035mQ",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF008_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeX3NObHpid3dkdFE",
+    "name": "DF008_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-Y5d1LW0Zz-MMhzlHJjmnOg",
+    "size": 220060270,
+    "path": "2017_June/mobile_iOS_backup/DF008_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeWThZbHllYlptcms",
+    "name": "DF008_setup.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-d-XFeM320gjcnIqHhhJFjQ",
+    "size": 32,
+    "path": "2017_June/mobile_iOS_backup/DF008_setup.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeb3pwSUtlM1I3WTA",
+    "name": "DF008_setup.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-YpoysodmJbrbkEhvw-8B4w",
+    "size": 40,
+    "path": "2017_June/mobile_iOS_backup/DF008_setup.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSedkVqQ0FNMndqQjQ",
+    "name": "DF008_setup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-Lk0kDKRJA2X84oNkQHcW0w",
+    "size": 220038762,
+    "path": "2017_June/mobile_iOS_backup/DF008_setup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUG02SnpMNlFhVU0",
+    "name": "DF008_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-jHYgqjx2yMvzi2tX5Tlovw",
+    "size": 31914983424,
+    "path": "2017_June/SDCard_external/DF008_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeVkczazNlY1V1UVU",
+    "name": "DF008_microsd_external.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-537Q_OK67fNlK8pXDHN8nw",
+    "size": 32,
+    "path": "2017_June/SDCard_external/DF008_microsd_external.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSedGdBX3hiZUptTVU",
+    "name": "DF008_microsd_external.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-pa0xwjgYxkIlobCb3xAx0A",
+    "size": 40,
+    "path": "2017_June/SDCard_external/DF008_microsd_external.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZ21rWkpkU1lHUDA",
+    "name": "README_DF008_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-t1mwURUFPgvr-VJS7PrswA",
+    "size": 32,
+    "path": "2017_June/README_DF008_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeRldtSW14Z0ttVmM",
+    "name": "README_DF008_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-hGZOpqlVJk3M13GlO8czig",
+    "size": 40,
+    "path": "2017_June/README_DF008_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSebmVDMnpOQ2pwTFU",
+    "name": "README_DF008_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-pAZroeCQTL4kicNbtNLRYg",
+    "size": 3179,
+    "path": "2017_June/README_DF008_Drone_Forensics_Program_20170822.txt"
+   },
+   {
+    "id": "1YH68YISKvKuAZZQa8d_YGyk0ZTSgeNsf",
+    "name": "DJI_Assistant_Export.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 4473972,
+    "path": "2018_June/DJI_Assistant_Export/DJI_Assistant_Export.zip"
+   },
+   {
+    "id": "1rTb2OiRxvC_66qg_0teYNY6TO-Edk8gt",
+    "name": "ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 320098221,
+    "path": "2018_June/mobile_iOS/ios_backup.zip"
+   },
+   {
+    "id": "1HJqqmTOD7-nqLxAfywQzF6TnlhtzUJyj",
+    "name": "README_DF008_Drone_Forensics_Program_June_2018.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF008_Drone_Forensics_Program_June_2018.SHA1"
+   },
+   {
+    "id": "1H73Kz7AjkYbFBxAKwlObd9pb2gl1BYwF",
+    "name": "README_DF008_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3042,
+    "path": "2018_June/README_DF008_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "1Z2A1Z7aCE2QP_WmWfYdUXjBpdcXVrTVc",
+    "name": "README_DF008_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF008_Drone_Forensics_Program_June_2018.txt.MD5"
+   }
+  ]
+ },
+ "DF009": {
+  "model": "DJI Spark",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeZjVtcEdfeFdHdVk",
+    "name": "DF009_chipoff_ic_flash_chip_7.img",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-IleJS5MsZNmKJGkrSAH45A",
+    "size": 1073741824,
+    "path": "2017_June/chipoff_ic_flash_chip_7/DF009_chipoff_ic_flash_chip_7.img"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSG5NRTNvME5GOTA",
+    "name": "DF009_microsd_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-EjLDcaJ3j3JT6nXBiHtA3Q",
+    "size": 31914983424,
+    "path": "2017_June/SDCard_external/DF009_microsd_external.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZlA5eFZ1TktQRm8",
+    "name": "README_DF009_Drone_Forensics_Program_20170822.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-4e15UYzXp-QBDCnZtKzJkQ",
+    "size": 32,
+    "path": "2017_June/README_DF009_Drone_Forensics_Program_20170822.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeTFg0UmVOZHJrRVU",
+    "name": "README_DF009_Drone_Forensics_Program_20170822.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-AGOW9bAnV6DC69VM18eFjw",
+    "size": 40,
+    "path": "2017_June/README_DF009_Drone_Forensics_Program_20170822.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZXZzbmpDckE0ZVk",
+    "name": "README_DF009_Drone_Forensics_Program_20170822.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-Lc6GkMxBCBKXxOoFKbpeag",
+    "size": 3038,
+    "path": "2017_June/README_DF009_Drone_Forensics_Program_20170822.txt"
+   }
+  ]
+ },
+ "DF010": {
+  "model": "DJI Inspire 1",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeWGV3S1VpYU1ocUk",
+    "name": "df010_camera_microsd.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-3yzquvDA89nFJtIhleHaGA",
+    "size": 3965190144,
+    "path": "2017_August/microSD_camera/df010_camera_microsd.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeR0hfRW45S2xfZlE",
+    "name": "df010_camera_microsd.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-zp90Bw07CJGw0_aAFzGOHw",
+    "size": 32,
+    "path": "2017_August/microSD_camera/df010_camera_microsd.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSebzVPVVVkMEN2RnM",
+    "name": "df010_camera_microsd.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-IqSLPGdMQJsV3g24DVsRNw",
+    "size": 40,
+    "path": "2017_August/microSD_camera/df010_camera_microsd.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSecHZwRGV2LUhTajg",
+    "name": "DF010_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-g2lDdV3jhsfZHT-e932-5w",
+    "size": 32,
+    "path": "2017_August/mobile_iOS/DF010_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQmFvc295aGFGbjQ",
+    "name": "DF010_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-V_XvDE9V0yQSPFZJzHxJVg",
+    "size": 40,
+    "path": "2017_August/mobile_iOS/DF010_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeb05sR2NYRWU4a1E",
+    "name": "DF010_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-5rGaJRSafDEytyUTSY2dFQ",
+    "size": 397406757,
+    "path": "2017_August/mobile_iOS/DF010_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeOTlhZ1ZEbDEyX1U",
+    "name": "README_DF010_Drone_Forensics_Program.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Yaddh7nuZ0jRyUGXaD783g",
+    "size": 32,
+    "path": "2017_August/README_DF010_Drone_Forensics_Program.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeeERfck53alRiS2s",
+    "name": "README_DF010_Drone_Forensics_Program.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-NuCrhC--iI93m1xVkoxaiw",
+    "size": 40,
+    "path": "2017_August/README_DF010_Drone_Forensics_Program.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYnYtR0k1WnpJMnc",
+    "name": "README_DF010_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-yNzQmSZFci3okvVZh0xiuQ",
+    "size": 3012,
+    "path": "2017_August/README_DF010_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1tj2OhmMaf6Kr0sO7PQ_CwQ__SoVAH5gb",
+    "name": "flight_logs.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 646177385,
+    "path": "2018_June/flight_logs/flight_logs.zip"
+   },
+   {
+    "id": "1Rwew5pa3JROxU0PUQZvf8aGB4kcDtdgp",
+    "name": "Media01.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 99307680,
+    "path": "2018_June/mobile_android/Media01.zip"
+   },
+   {
+    "id": "19MVAAuAZaoUktzgdAnegIl7GYR7lcPsU",
+    "name": "ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 197212042,
+    "path": "2018_June/mobile_iOS/ios_backup.zip"
+   },
+   {
+    "id": "1nFnWOv_hcn1GNoxqtiYicLA_HXYdl7sY",
+    "name": "README_DF010_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3196,
+    "path": "2018_June/README_DF010_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "1TIuIv3w65frkFvQwfQKJewbRnSvXrbiK",
+    "name": "README_DF010_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF010_Drone_Forensics_Program_June_2018.txt.MD5"
+   },
+   {
+    "id": "1wHJElp8s4K7rcX1_vu8-c0foVcvT5R9u",
+    "name": "README_DF010_Drone_Forensics_Program_June_2018.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF010_Drone_Forensics_Program_June_2018.txt.SHA1"
+   }
+  ]
+ },
+ "DF011": {
+  "model": "DJI Inspire 1",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSebnlTU2lqamRDdFE",
+    "name": "df011_camera_microsd.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-_TauvDmevDAbtBKcsBcVxQ",
+    "size": 16022241280,
+    "path": "2017_August/microSD_camera/df011_camera_microsd.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUl84RUEzSWx3NGM",
+    "name": "df011_camera_microsd.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-OcUFmN7O41ytposaIP_soQ",
+    "size": 32,
+    "path": "2017_August/microSD_camera/df011_camera_microsd.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeT0ZIRGZPWUlSWVU",
+    "name": "df011_camera_microsd.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-E9rJrwrlFrzUCWUL6SEZUg",
+    "size": 40,
+    "path": "2017_August/microSD_camera/df011_camera_microsd.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeM2QtOGI3eHZ4T1k",
+    "name": "DF011_flight.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-PguXjMhR7e_mMDFhzjzbaA",
+    "size": 5289017344,
+    "path": "2017_August/mobile_android/DF011_flight.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSDM3Rk1IVVljUmM",
+    "name": "DF011_flight.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-0e-eug4NTNyxHJxahKqDpA",
+    "size": 32,
+    "path": "2017_August/mobile_android/DF011_flight.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeN3hSbll5bEozYzQ",
+    "name": "DF011_flight.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-OQpyGDSKAgnt9PyLN__18w",
+    "size": 40,
+    "path": "2017_August/mobile_android/DF011_flight.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQlZSWDNPbEtUU1U",
+    "name": "DF011_flight..md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-atuHkta6sVH0EdD4rWXS8g",
+    "size": 32,
+    "path": "2017_August/mobile_iOS/DF011_flight..md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeN0RuMGxORXNjN3c",
+    "name": "DF011_flight..sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-2sSZ_xS4WYNvL9WqD_9aag",
+    "size": 40,
+    "path": "2017_August/mobile_iOS/DF011_flight..sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYk1TLXowRXpjeW8",
+    "name": "DF011_flight.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-h9ND1XXobo4BYyB2Nm2A8Q",
+    "size": 219369308,
+    "path": "2017_August/mobile_iOS/DF011_flight.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNF9wR1RLMkVsa3M",
+    "name": "README_DF011_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0--_3-ExJzBqpZhZuRvqmWjQ",
+    "size": 3177,
+    "path": "2017_August/README_DF011_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeRlppZ3lzUnk3TDA",
+    "name": "README_DF011_Drone_Forensics_Program.txt.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-z8sGTkUYRJ_V6R25gLjYAg",
+    "size": 32,
+    "path": "2017_August/README_DF011_Drone_Forensics_Program.txt.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYzdOOUF1MkZKX28",
+    "name": "README_DF011_Drone_Forensics_Program.txt.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-7KqZfzLE2TYpNXdBp9WThg",
+    "size": 40,
+    "path": "2017_August/README_DF011_Drone_Forensics_Program.txt.sha1"
+   }
+  ]
+ },
+ "DF012": {
+  "model": "DJI Inspire 1",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeTm16QU1YZmt2VlE",
+    "name": "df012_camera_microsd.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-xS9KkouKSy27eSLf96ylbA",
+    "size": 16012804096,
+    "path": "2017_August/microSD_camera/df012_camera_microsd.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSecUx5alFjak56V2c",
+    "name": "df012_camera_microsd.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-dJDxh-IIeiU7uSOh2WZsKg",
+    "size": 32,
+    "path": "2017_August/microSD_camera/df012_camera_microsd.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSebWthX3VDUlFqd2s",
+    "name": "df012_camera_microsd.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-v9QGRbcJZXyUDblnXSAJ9w",
+    "size": 40,
+    "path": "2017_August/microSD_camera/df012_camera_microsd.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQUNXNjZhaUVpejg",
+    "name": "df012_internal_microsd.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-LUdGLHomWLR6qDQTGrfX3Q",
+    "size": 3965190144,
+    "path": "2017_August/microSD_internal/df012_internal_microsd.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSedkswRkJNODFjU2M",
+    "name": "df012_internal_microsd.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-_OEmDy9AlH-NNAw6V7OdjQ",
+    "size": 32,
+    "path": "2017_August/microSD_internal/df012_internal_microsd.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNVhFbjk1QVAxdEk",
+    "name": "df012_internal_microsd.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-b-NhMnvznqIqlgumiNwVtw",
+    "size": 40,
+    "path": "2017_August/microSD_internal/df012_internal_microsd.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZUNxQnlYZUl2RXc",
+    "name": "README_DF012_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-FAFUpycA7f9WDFy5u2Fu_Q",
+    "size": 3013,
+    "path": "2017_August/README_DF012_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSHJvM204bjZpc1E",
+    "name": "README_DF012_Drone_Forensics_Program.txt.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-2F04BRTggywh_RLFVm0Ahg",
+    "size": 32,
+    "path": "2017_August/README_DF012_Drone_Forensics_Program.txt.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeallpSEFEUGpRQTQ",
+    "name": "README_DF012_Drone_Forensics_Program.txt.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-oV8C8fVKLabVe3YN8PG73w",
+    "size": 40,
+    "path": "2017_August/README_DF012_Drone_Forensics_Program.txt.sha1"
+   }
+  ]
+ },
+ "DF019": {
+  "model": "DJI Mavic Pro",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeajlMSm80SjQ1R1E",
+    "name": "df019_flight_android_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-PfkMP5bmmvJqtEw0ceAJFA",
+    "size": 5289017344,
+    "path": "2017_August/mobile_android_physical/df019_flight_android_physical.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeeU1XWGJTdmpOTnc",
+    "name": "df019_flight_android_physical.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0--64Gubsb-3AzFC2VWWOIEA",
+    "size": 32,
+    "path": "2017_August/mobile_android_physical/df019_flight_android_physical.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNGJCdW1uX2IxNnM",
+    "name": "df019_flight_android_physical.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-8b4WIADIokXHpVR_wKLyGA",
+    "size": 40,
+    "path": "2017_August/mobile_android_physical/df019_flight_android_physical.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSebUhKRzcwQzNNaU0",
+    "name": "df019_flight_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-8alvg7X1Ic08BWqPXCNNoA",
+    "size": 243238443,
+    "path": "2017_August/mobile_iOS_backup/df019_flight_ios_backup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNUY2TUc2cWtRaGs",
+    "name": "df019_flight_ios_backup.zip.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-9MO00YB_BMKITB16RdwSeg",
+    "size": 32,
+    "path": "2017_August/mobile_iOS_backup/df019_flight_ios_backup.zip.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNDNoQ3VManJxMWs",
+    "name": "df019_flight_ios_backup.zip.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-5cYyPyPiIZgmeoB9bWuofA",
+    "size": 40,
+    "path": "2017_August/mobile_iOS_backup/df019_flight_ios_backup.zip.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeazNXcjh0Z29yZ2c",
+    "name": "df019_external_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-pq3GC8K99n0ZXf1tUstnTA",
+    "size": 15931539456,
+    "path": "2017_August/SDCard_external/df019_external_microSD.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUmRodzBfZzNvQjQ",
+    "name": "df019_external_microSD.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-VsdFNLrCcO5_Lc2qK73efg",
+    "size": 32,
+    "path": "2017_August/SDCard_external/df019_external_microSD.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQ29XdTlfSzlDbWM",
+    "name": "df019_external_microSD.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-MX1E2YVlgZaRLV1mnfhQeg",
+    "size": 40,
+    "path": "2017_August/SDCard_external/df019_external_microSD.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNksxaERxS0t1Tm8",
+    "name": "README_DF019_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-yYKlo8emQgO_o0r1Y3th-w",
+    "size": 3191,
+    "path": "2017_August/README_DF019_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMFM5UzZfNkF0NmM",
+    "name": "README_DF019_Drone_Forensics_Program.txt.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-2lgDNBrocQEySPWMfrqAHw",
+    "size": 32,
+    "path": "2017_August/README_DF019_Drone_Forensics_Program.txt.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZGZBcGpzbHVMNTg",
+    "name": "README_DF019_Drone_Forensics_Program.txt.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-kmxVoXo7VUb8JL45EF44MA",
+    "size": 40,
+    "path": "2017_August/README_DF019_Drone_Forensics_Program.txt.sha1"
+   },
+   {
+    "id": "1V16pmmik2GJsEZiLqdaJUpsSFkTb_8LU",
+    "name": "DJI_Assistant_Export.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 185728260,
+    "path": "2018_June/DJI_Assistant_export/DJI_Assistant_Export.zip"
+   },
+   {
+    "id": "1kkzc7tpJhZslbdHD4y9BKuzVJBMz_tYu",
+    "name": "ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 390404682,
+    "path": "2018_June/mobile_iOS_backup/ios_backup.zip"
+   },
+   {
+    "id": "1zI6tSU44KjWQdauWFskAs7KpfNfwvEEH",
+    "name": "intact_sdcard_internal.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3965157888,
+    "path": "2018_June/SDCard_internal_intact/intact_sdcard_internal.001"
+   },
+   {
+    "id": "1cotBAsFrrVyzg-YE7XSbS5__a6j6izp6",
+    "name": "README_DF019_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3229,
+    "path": "2018_June/README_DF019_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1CQBKn46J3v3zkZnoRd7xtJ-gL_j9YIGM",
+    "name": "README_DF019_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF019_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1HuwKdAA7J6i79ZUx2QGERVmFGjKrmhsO",
+    "name": "README_DF019_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF019_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF020": {
+  "model": "DJI Mavic Pro",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeLTVSNUV2WHI1RGM",
+    "name": "df020_flight_android_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-eXKj7r7rWczEFr6VeKKuMQ",
+    "size": 5289017344,
+    "path": "2017_August/mobile_android_physical/df020_flight_android_physical.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNXJQcGhlV1l1TTQ",
+    "name": "df020_flight_android_physical.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-X64FCwjvWjNo4yC4hLgIjQ",
+    "size": 32,
+    "path": "2017_August/mobile_android_physical/df020_flight_android_physical.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMjZpNDh2SFNiaWM",
+    "name": "df020_flight_android_physical.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-ivdRGnd-jxyrnD-ZnEg4oA",
+    "size": 40,
+    "path": "2017_August/mobile_android_physical/df020_flight_android_physical.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeTXpUanJTbU5CeDQ",
+    "name": "df020_flight_ios_backup.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-b8pUztNN8mQ7CMbVrPRjOQ",
+    "size": 32,
+    "path": "2017_August/mobile_iOS_backup/df020_flight_ios_backup.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYXhJcTA1Q29tWFk",
+    "name": "df020_flight_ios_backup.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Jg7942T-r4KabRhVstjJgg",
+    "size": 40,
+    "path": "2017_August/mobile_iOS_backup/df020_flight_ios_backup.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeWHQyVnlpeTgtN0E",
+    "name": "df020_flight_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-tdT32TCV-O7xAB4VaFumwA",
+    "size": 698544846,
+    "path": "2017_August/mobile_iOS_backup/df020_flight_ios_backup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSed1VidzRFa0wxNTA",
+    "name": "df020_external_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-ME5bF7JkcEKJaXd5KqHoHQ",
+    "size": 15931539456,
+    "path": "2017_August/SDCard_external/df020_external_microSD.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeV1RsLTRGUHRhSlk",
+    "name": "df020_external_microSD.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-zO0DvfuoV-km7IbnDRhrKA",
+    "size": 32,
+    "path": "2017_August/SDCard_external/df020_external_microSD.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSlVJMnRFMEN3cGc",
+    "name": "df020_external_microSD.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-kxYCcSwMa1KWrm5fleFRug",
+    "size": 40,
+    "path": "2017_August/SDCard_external/df020_external_microSD.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeaEZfSTg3bDd6MVU",
+    "name": "df020_external_microSD.001.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-y6Sz1STw62dkRq-3vT4Byg",
+    "size": 1492,
+    "path": "2017_August/SDCard_external/df020_external_microSD.001.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeRE1IZWZIZ0EzT0E",
+    "name": "README_DF020_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-WGX99qs8WaSIOUofgfJARw",
+    "size": 3192,
+    "path": "2017_August/README_DF020_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeVmFGQzB2Q1AxNjg",
+    "name": "README_DF020_Drone_Forensics_Program.txt.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Vi82r0oOXwv-bhAyICUDMA",
+    "size": 32,
+    "path": "2017_August/README_DF020_Drone_Forensics_Program.txt.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMXhsXzNESkI4VFU",
+    "name": "README_DF020_Drone_Forensics_Program.txt.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-uTEd0beuxOPO5be7-ob1gQ",
+    "size": 40,
+    "path": "2017_August/README_DF020_Drone_Forensics_Program.txt.sha1"
+   },
+   {
+    "id": "19Yq8wUOoac1qRbPXLL9qF8W-s7ErPQGI",
+    "name": "DJI_Assistant_Export.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 160071024,
+    "path": "2018_June/DJI_Assistant_export/DJI_Assistant_Export.zip"
+   },
+   {
+    "id": "1wuBF1a-jToqNbV-Pm2u1xCFBPFqrZfU3",
+    "name": "Android_Logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 474050584,
+    "path": "2018_June/mobile_android_logical/Android_Logical.zip"
+   },
+   {
+    "id": "1oylfhSoFvEd2XKOqn3UN6CAcWP7IOR5U",
+    "name": "SDCard_External.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 16022241280,
+    "path": "2018_June/SDCard_external/SDCard_External.001"
+   },
+   {
+    "id": "1wncVDc2M6utT6wRvogZPKbeKQTB1UiFM",
+    "name": "SDCard_Internal_Intact.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3965157888,
+    "path": "2018_June/SDCard_internal/SDCard_Internal_Intact.001"
+   },
+   {
+    "id": "1v8xDmvKWQO16Suyzdv3_lCOHu0H58h3m",
+    "name": "README_DF020_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3403,
+    "path": "2018_June/README_DF020_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1v-3L_s30kYfzm5oQLghpcM8E_ceTINyJ",
+    "name": "README_DF020_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF020_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1zpJs8vhqvrU1nYD5oLordwt0EYuXHs1N",
+    "name": "README_DF020_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF020_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF021": {
+  "model": "DJI Mavic Pro",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeWkVjdGpBUEFINms",
+    "name": "df021_flight_android_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Wy7lnGoI8DwW9KFWoKZKfg",
+    "size": 5289017344,
+    "path": "2017_August/mobile_android_physical/df021_flight_android_physical.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQmxmams0ZV9yM1U",
+    "name": "df021_flight_android_physical.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-ULEjEZ3NUKYSTOSiVZIibQ",
+    "size": 32,
+    "path": "2017_August/mobile_android_physical/df021_flight_android_physical.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSTFWWHVfMHhLT1E",
+    "name": "df021_flight_android_physical.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-wGb_iSqIGfM0Dai8ui6Slg",
+    "size": 40,
+    "path": "2017_August/mobile_android_physical/df021_flight_android_physical.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNV9VYWRKZHVLYTA",
+    "name": "df021_flight_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-0g6CMQ2wYl1jOD4HS1MaPA",
+    "size": 1325382092,
+    "path": "2017_August/mobile_iOS_backup/df021_flight_ios_backup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeOS1DUV9mY2plVU0",
+    "name": "df021_flight_ios_backup.zip.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-4wO0pWaF62uJu6XVtldTJw",
+    "size": 32,
+    "path": "2017_August/mobile_iOS_backup/df021_flight_ios_backup.zip.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSHRQX0tWN1dlUWM",
+    "name": "df021_flight_ios_backup.zip.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-NmNcbHpfRGocqhytR2smVQ",
+    "size": 40,
+    "path": "2017_August/mobile_iOS_backup/df021_flight_ios_backup.zip.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNkVIZ1BZRDJ3SlE",
+    "name": "df021_external_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-X9HbfiVdopfrf1NB1h4DQg",
+    "size": 15931539456,
+    "path": "2017_August/SDCard_external/df021_external_microSD.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeLWpEcEpLZnUySTA",
+    "name": "df021_external_microSD.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Pgdo5eUFq4tqPsvy7UcuWg",
+    "size": 32,
+    "path": "2017_August/SDCard_external/df021_external_microSD.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZDRWYUUxR3J5RUU",
+    "name": "df021_external_microSD.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-lxxUmfhyBsqvvE8hwhT6cw",
+    "size": 40,
+    "path": "2017_August/SDCard_external/df021_external_microSD.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSedGQ0cjVxalJDQnc",
+    "name": "df021_external_microSD.001.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-Xhx7syTakPQnxwJ9deVuUQ",
+    "size": 1492,
+    "path": "2017_August/SDCard_external/df021_external_microSD.001.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNHZFdTdVR3BXM2M",
+    "name": "README_DF021_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-lySwAw9Fd3hB1fbKqsB2Vg",
+    "size": 3193,
+    "path": "2017_August/README_DF021_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeV2Q1VE1jMjc0TGs",
+    "name": "README_DF021_Drone_Forensics_Program.txt.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-R2pFTO_PmsDq7-8F9zqFwA",
+    "size": 32,
+    "path": "2017_August/README_DF021_Drone_Forensics_Program.txt.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeR3R5c2RMRlktUDQ",
+    "name": "README_DF021_Drone_Forensics_Program.txt.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-d4w80rvhQIyHIjKHNhadsQ",
+    "size": 40,
+    "path": "2017_August/README_DF021_Drone_Forensics_Program.txt.sha1"
+   }
+  ]
+ },
+ "DF025": {
+  "model": "DJI Inspire 2",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeNzN4NllGUUttVDg",
+    "name": "df025_flight_android_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-t5UhfdMu4gRUU3ctOkNWRw",
+    "size": 5289017344,
+    "path": "2017_August/mobile_android_physical/df025_flight_android_physical.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeT29kNDRfMm1EUU0",
+    "name": "df025_flight_android_physical.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Ac2S3G8XKM_z5YpEgzddNg",
+    "size": 32,
+    "path": "2017_August/mobile_android_physical/df025_flight_android_physical.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSlhfY3BvS2czTlk",
+    "name": "df025_flight_android_physical.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-KFawcToeHXKbbXYxQzMQdw",
+    "size": 40,
+    "path": "2017_August/mobile_android_physical/df025_flight_android_physical.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeTVh0cThnYmpnSnM",
+    "name": "df025_flight_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-3qzqgt37iZPtnP9bx4I42g",
+    "size": 205796020,
+    "path": "2017_August/mobile_iOS_backup/df025_flight_ios_backup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNm45VmVfNjN5czA",
+    "name": "df025_flight_ios_backup.zip.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-8NxdVYzbUCeoGXXFVSLbBw",
+    "size": 32,
+    "path": "2017_August/mobile_iOS_backup/df025_flight_ios_backup.zip.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeWl9GSHdQaGZQaHc",
+    "name": "df025_flight_ios_backup.zip.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-P1RSwnebdNOCX5ptgUXjjw",
+    "size": 40,
+    "path": "2017_August/mobile_iOS_backup/df025_flight_ios_backup.zip.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSedWNEb04wSkpWOW8",
+    "name": "df025_external_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-BzhbJZo1rJK1JKYm8R3lBw",
+    "size": 16022241280,
+    "path": "2017_August/SDCard_external/df025_external_microSD.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUDdTYkYtNzgzR1E",
+    "name": "df025_external_microSD.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-_Tzsu4Vurbv6yOxu3OZdGQ",
+    "size": 32,
+    "path": "2017_August/SDCard_external/df025_external_microSD.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeeGZXby16NDVHQzQ",
+    "name": "df025_external_microSD.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-dafBebyi3B73z04yjZfRhw",
+    "size": 40,
+    "path": "2017_August/SDCard_external/df025_external_microSD.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeLU1IZWViMnR0STQ",
+    "name": "df025_external_microSD.001.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-b2OgtnVjGxo4N8Dy9qIT4Q",
+    "size": 1492,
+    "path": "2017_August/SDCard_external/df025_external_microSD.001.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYmtnMHVLZ2JhRHc",
+    "name": "df025_internal_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-FQLg18R86pt4X5GwdzDs2A",
+    "size": 7948206080,
+    "path": "2017_August/SDCard_internal/df025_internal_microSD.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeeHJ2VEV0OFBqUWc",
+    "name": "df025_internal_microSD.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-FMQHB60qqE87qmFM3WY9Wg",
+    "size": 32,
+    "path": "2017_August/SDCard_internal/df025_internal_microSD.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMW9vajhmblNjT3c",
+    "name": "df025_internal_microSD.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-ZXGujNqYGdZQ2y5G1vYfZQ",
+    "size": 40,
+    "path": "2017_August/SDCard_internal/df025_internal_microSD.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYV9tYlZzSmd6bm8",
+    "name": "df025_internal_microSD.001.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-k3xLPZTvjIYPQvRavn7_tw",
+    "size": 1489,
+    "path": "2017_August/SDCard_internal/df025_internal_microSD.001.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeV0h2VTJfbVNmejg",
+    "name": "README_DF025_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-9ZrX9RYARwiH5GoILfC83Q",
+    "size": 3361,
+    "path": "2017_August/README_DF025_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeR1VWa1NPOGVvQzQ",
+    "name": "README_DF025_Drone_Forensics_Program.txt.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-IRzG3UwjkRRsN5CxMAyRBg",
+    "size": 32,
+    "path": "2017_August/README_DF025_Drone_Forensics_Program.txt.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeTDVhTlBqcFBBUTg",
+    "name": "README_DF025_Drone_Forensics_Program.txt.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-gwl5re2mWgUkZ6UliMuHTw",
+    "size": 40,
+    "path": "2017_August/README_DF025_Drone_Forensics_Program.txt.sha1"
+   }
+  ]
+ },
+ "DF026": {
+  "model": "DJI Inspire 2",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeWllpR25jVXgwbms",
+    "name": "df026_flight_android_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Lb9fX2GBrFilm2WpvyyDZQ",
+    "size": 5289017344,
+    "path": "2017_August/mobile_android_physical/df026_flight_android_physical.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSedW0yeVJyNUprams",
+    "name": "df026_flight_android_physical.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Y6sGzbVQ4jbm7YNR8dtZCQ",
+    "size": 32,
+    "path": "2017_August/mobile_android_physical/df026_flight_android_physical.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeSVBOVTNMR3F2ckk",
+    "name": "df026_flight_android_physical.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-aEu8qTaD0nXdANpu0p5zLA",
+    "size": 40,
+    "path": "2017_August/mobile_android_physical/df026_flight_android_physical.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeV1lhalBRempqT0k",
+    "name": "df026_flight_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-2Lxy5fqnrYj8Xk2iDud6qA",
+    "size": 313791879,
+    "path": "2017_August/mobile_iOS_backup/df026_flight_ios_backup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQlBHV1BiRFhzQkk",
+    "name": "df026_flight_ios_backup.zip.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-oPqhSCM198puU3DuoRc3WA",
+    "size": 32,
+    "path": "2017_August/mobile_iOS_backup/df026_flight_ios_backup.zip.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSebGFJbTZOTGNNNXM",
+    "name": "df026_flight_ios_backup.zip.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-7s_pa7CjjNkqj5g3eNho0A",
+    "size": 40,
+    "path": "2017_August/mobile_iOS_backup/df026_flight_ios_backup.zip.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNG1mS1hXV2taNGc",
+    "name": "README_DF026_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-jZ8a92g_No4QJZZZrKRPYA",
+    "size": 3020,
+    "path": "2017_August/README_DF026_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZVJRLWhPZnZjbjA",
+    "name": "README_DF026_Drone_Forensics_Program.txt.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-oy9uAZI4srFpyJ9w4sX9AA",
+    "size": 32,
+    "path": "2017_August/README_DF026_Drone_Forensics_Program.txt.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeVmtyaDlFdHNacHM",
+    "name": "README_DF026_Drone_Forensics_Program.txt.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-z9HLttaGFK_Cz6A0MJpG4g",
+    "size": 40,
+    "path": "2017_August/README_DF026_Drone_Forensics_Program.txt.sha1"
+   }
+  ]
+ },
+ "DF027": {
+  "model": "DJI Inspire 2",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeUkdZc3FON3p3dkE",
+    "name": "df027_flight_android_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-ZikxsPeLr1wPSG8X24dNrw",
+    "size": 5289017344,
+    "path": "2017_August/mobile_android_physical/df027_flight_android_physical.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSedkJERHM4UXVQVnM",
+    "name": "df027_flight_android_physical.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-v4sNliwiWIiD1xDGVhap9Q",
+    "size": 32,
+    "path": "2017_August/mobile_android_physical/df027_flight_android_physical.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQkJTbFlQekdjMDg",
+    "name": "df027_flight_android_physical.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-pELRM1OvGYn3johvvPL-fA",
+    "size": 40,
+    "path": "2017_August/mobile_android_physical/df027_flight_android_physical.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeN1J0SmtXNVZGVzg",
+    "name": "df027_flight2_android_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-lLSG9FpMQPvl5OW-kWR6rA",
+    "size": 5289017344,
+    "path": "2017_August/mobile_android_physical/df027_flight2_android_physical.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeanh6NE0wTEJEdEU",
+    "name": "df027_flight2_android_physical.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-Zxa5vfXI9qMbyl8T0ZIWDw",
+    "size": 32,
+    "path": "2017_August/mobile_android_physical/df027_flight2_android_physical.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeeEs1X1hONlIyQUk",
+    "name": "df027_flight2_android_physical.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-7oWPb00Ze5o8m6d1XjMfDg",
+    "size": 40,
+    "path": "2017_August/mobile_android_physical/df027_flight2_android_physical.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeR0FrR1o5S3pCNFU",
+    "name": "df027_flight_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-DtWzJkKZv6LefcHG505T-A",
+    "size": 169687998,
+    "path": "2017_August/mobile_iOS_backup/df027_flight_ios_backup.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSea3FGNWhWWXR0WFU",
+    "name": "df027_flight_ios_backup.zip.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-iVffXJ5h3nk8MsrmwLSSLg",
+    "size": 32,
+    "path": "2017_August/mobile_iOS_backup/df027_flight_ios_backup.zip.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeQ21qSEFfclE2YjQ",
+    "name": "df027_flight_ios_backup.zip.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-tkfJBdFp6MsWC6w_is0uMw",
+    "size": 40,
+    "path": "2017_August/mobile_iOS_backup/df027_flight_ios_backup.zip.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeU2V5amdOeG8wTU0",
+    "name": "README_DF027_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": "0-xeN-5n780kzyUKDjfkO2Xg",
+    "size": 3198,
+    "path": "2017_August/README_DF027_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "0B1aBvVt_vSSecjBER3QxcWE2T0k",
+    "name": "README_DF027_Drone_Forensics_Program.txt.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-IalWIwCRjVbWzvuyBXT1Vg",
+    "size": 32,
+    "path": "2017_August/README_DF027_Drone_Forensics_Program.txt.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeS3ctbzQ3MFAwUTA",
+    "name": "README_DF027_Drone_Forensics_Program.txt.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-HS4cgqUkIDbBDRmC46t4Yg",
+    "size": 40,
+    "path": "2017_August/README_DF027_Drone_Forensics_Program.txt.sha1"
+   },
+   {
+    "id": "1loyLDUghMz8W6muLZzUuj2dxBOh4AtyV",
+    "name": "Flight_Log_Data.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 1940024308,
+    "path": "2018_June/flight_log_data/Flight_Log_Data.zip"
+   },
+   {
+    "id": "10OEhEBLUw79tjDiZvzPAXHrUftxbpSj1",
+    "name": "Android_Logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 163229401,
+    "path": "2018_June/mobile_android_logical/Android_Logical.zip"
+   },
+   {
+    "id": "1ZtlRV81q_YqGwf3QZJSzH71BD4XObt8j",
+    "name": "ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 402683578,
+    "path": "2018_June/mobile_iOS_backup/ios_backup.zip"
+   },
+   {
+    "id": "1EDw7XyMkMqUCVwEkEG1DDItwfAvjsL9s",
+    "name": "df027_external_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 16022241280,
+    "path": "2018_June/SDCard_external/df027_external_microSD.001"
+   },
+   {
+    "id": "1hAFkefac0xJtZK08HzKzYT0cqX_JuSAg",
+    "name": "intact_sdcard_internal.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 7948173824,
+    "path": "2018_June/SDCard_internal/intact_sdcard_internal.001"
+   },
+   {
+    "id": "1x0LCQn4_zlCg4PhclWxsChWMaKLBsBV5",
+    "name": "README_DF027_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3568,
+    "path": "2018_June/README_DF027_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "1kDwZGqTpwrnrsDzFwNVavCdkHj9wbZhl",
+    "name": "README_DF027_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF027_Drone_Forensics_Program_June_2018.txt.MD5"
+   },
+   {
+    "id": "1mIPs3FffBP1CJfxTEuDa0HA-HbtAONrC",
+    "name": "README_DF027_Drone_Forensics_Program_June_2018.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF027_Drone_Forensics_Program_June_2018.txt.SHA1"
+   }
+  ]
+ },
+ "DF034": {
+  "model": "DJI Matrice 600 Pro",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeWFVPbEVleTJ3ZVU",
+    "name": "df034_internal_microSD_via_sdcard_mode.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-QlcIXaDsnm6ZoB7zYvPcoQ",
+    "size": 7948206080,
+    "path": "2017_October/SDCard_internal_intact_logical_acquisition/df034_internal_microSD_via_sdcard_mode.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZ2Q5bE5DejduRFE",
+    "name": "df034_internal_microSD_via_sdcard_mode.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-TQNY0HKSIdOed3Xv3nDnhA",
+    "size": 32,
+    "path": "2017_October/SDCard_internal_intact_logical_acquisition/df034_internal_microSD_via_sdcard_mode.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSea0FvT2E5QkJYSzQ",
+    "name": "df034_internal_microSD_via_sdcard_mode.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-y6ttGbJPuVe0cJl_hOw04w",
+    "size": 40,
+    "path": "2017_October/SDCard_internal_intact_logical_acquisition/df034_internal_microSD_via_sdcard_mode.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeUmNjUThtY0tqS2c",
+    "name": "df_034_internal_microSD_logical_via_app.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-6MuQgHs7NvmFsqjjRQ1z2w",
+    "size": 32,
+    "path": "2017_October/SDCard_internal_intact_physical_acquisition/df_034_internal_microSD_logical_via_app.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeOFNxeHRRMWNUM1U",
+    "name": "df_034_internal_microSD_logical_via_app.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-qO7kSQnVQB0vRkGuE9g_Fg",
+    "size": 40,
+    "path": "2017_October/SDCard_internal_intact_physical_acquisition/df_034_internal_microSD_logical_via_app.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeWlQxWURBUDd4TXM",
+    "name": "df_034_internal_microSD_logical_via_app.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-6D_Q6VujW_bkU7r3AKA2_w",
+    "size": 2487775047,
+    "path": "2017_October/SDCard_internal_intact_physical_acquisition/df_034_internal_microSD_logical_via_app.zip"
+   },
+   {
+    "id": "1HWm_VR-hcO6Wk6q8ODHqwQp4t-gMokVY",
+    "name": "Flight_Logs.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 1735613663,
+    "path": "2018_June/flight_logs/Flight_Logs.zip"
+   },
+   {
+    "id": "1iemSHoZcz4pE3qLBUqBYvL99p772_LZI",
+    "name": "Android_Logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 780723645,
+    "path": "2018_June/mobile_android_logical/Android_Logical.zip"
+   },
+   {
+    "id": "1amLBA-UwCR5UxnV7anNNI1yScHJrLFPO",
+    "name": "ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 191446813,
+    "path": "2018_June/mobile_iOS_backup/ios_backup.zip"
+   },
+   {
+    "id": "1HcTydw1LwpWPQ3ys2e-UPYmASCPb2m_P",
+    "name": "df034_internal_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 7948206080,
+    "path": "2018_June/SDCard_internal_intact/df034_internal_microSD.001"
+   },
+   {
+    "id": "18zwoXRWcusUZHO15wnnylQwWtHTmcDfd",
+    "name": "README_DF034_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3390,
+    "path": "2018_June/README_DF034_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "1h1zwUDLEv5YjRFVCgyVBn2Ex9X9mCjJg",
+    "name": "README_DF034_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF034_Drone_Forensics_Program_June_2018.txt.MD5"
+   },
+   {
+    "id": "1ldZaA5at9qcfXRtS2MkoQOby6v20MO3k",
+    "name": "README_DF034_Drone_Forensics_Program_June_2018.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF034_Drone_Forensics_Program_June_2018.txt.SHA1"
+   },
+   {
+    "id": "1ofckVl35u_6gFzaF4E-cbBd_zvRbYbhj",
+    "name": "README_DF034_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3049,
+    "path": "README_DF034_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1rMuCqtBY2oohmHF3djy5iRc6gAUEn8C_",
+    "name": "README_DF034_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "README_DF034_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1MsPOMH9gsOwk8vGKp53-AbsrdJtxb4gR",
+    "name": "README_DF034_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "README_DF034_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF035": {
+  "model": "DJI Matrice 600 Pro",
+  "files": [
+   {
+    "id": "0B1aBvVt_vSSeLU1xZ0lCekNkMjg",
+    "name": "df_035_internal_microSD.001.img",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-EcWb41tZI-hms5P2B996YA",
+    "size": 7948206080,
+    "path": "2017_October/SDCard_internal/df_035_internal_microSD.001.img"
+   },
+   {
+    "id": "0B1aBvVt_vSSeRThwQzhlT05SOUE",
+    "name": "df_035_internal_microSD.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-cFzxmGEAf_rPU-dq0Vibog",
+    "size": 32,
+    "path": "2017_October/SDCard_internal/df_035_internal_microSD.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZENyVGgwVTZKcm8",
+    "name": "df_035_internal_microSD.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-r52-YWS7HBlzAmX4aS153A",
+    "size": 40,
+    "path": "2017_October/SDCard_internal/df_035_internal_microSD.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZExWQU0xeEhMRkU",
+    "name": "df_035_internal_microSD_logical_via_app.001",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-ZUftNPTo9L3qqD8skMv9fQ",
+    "size": 23592960,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device/df_035_internal_microSD_logical_via_app.001"
+   },
+   {
+    "id": "0B1aBvVt_vSSeZnlETUNEbDBDSGs",
+    "name": "df_035_internal_microSD_logical_via_app.001.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-QlT7ifh5UArBb3iRZp9CPA",
+    "size": 32,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device/df_035_internal_microSD_logical_via_app.001.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSeMVZ0SkZnV2kzNXM",
+    "name": "df_035_internal_microSD_logical_via_app.001.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-tZOHueIGXA2NiC2p0Sw-OA",
+    "size": 40,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device/df_035_internal_microSD_logical_via_app.001.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeTkF4QmkteWpFNk0",
+    "name": "df_035_internal_microSD_logical_via_app_two.zip",
+    "mime": "application/zip",
+    "resourcekey": "0--ec1l7R8VTNMr3UL8XMF5g",
+    "size": 1823409974,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device_via_app/df_035_internal_microSD_logical_via_app_two.zip"
+   },
+   {
+    "id": "0B1aBvVt_vSSeYjE5Z2g2cTBjek0",
+    "name": "df_035_internal_microSD_logical_via_sdcard_mode_write_block.zip.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-juy-0e6xlwlRAWgcz_7uPQ",
+    "size": 32,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device_via_app/df_035_internal_microSD_logical_via_sdcard_mode_write_block.zip.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSec3E0bVlGU0lmZHc",
+    "name": "df_035_internal_microSD_logical_via_sdcard_mode_write_block.zip.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-1yMjgUGHjCPn211i-eMiUw",
+    "size": 40,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device_via_app/df_035_internal_microSD_logical_via_sdcard_mode_write_block.zip.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeNE81Y0dsUnlzNXM",
+    "name": "df_035_internal_microSD_logical_via_app_two.zip.md5",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-v0hDeEu8TtOOKbwFQVh-Lg",
+    "size": 32,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device_write_block/df_035_internal_microSD_logical_via_app_two.zip.md5"
+   },
+   {
+    "id": "0B1aBvVt_vSSea0J6N25HMVlmWHM",
+    "name": "df_035_internal_microSD_logical_via_app_two.zip.sha1",
+    "mime": "application/octet-stream",
+    "resourcekey": "0-4uBoRsUTtm-rzo3oWIC_Ag",
+    "size": 40,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device_write_block/df_035_internal_microSD_logical_via_app_two.zip.sha1"
+   },
+   {
+    "id": "0B1aBvVt_vSSeV0xGbGVNbERyWlk",
+    "name": "df_035_internal_microSD_logical_via_sdcard_mode_write_block.zip",
+    "mime": "application/zip",
+    "resourcekey": "0-kt9Ma9x4yNopNh71oh1yeQ",
+    "size": 1823409974,
+    "path": "2017_October/SDCard_internal_logical_acquisition_intact_device_write_block/df_035_internal_microSD_logical_via_sdcard_mode_write_block.zip"
+   },
+   {
+    "id": "1EPtZKyD8dw6d3IO-tGnZx5CBimiB1p_b",
+    "name": "README_DF035_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3433,
+    "path": "2017_October/README_DF035_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1I7NpdeeMfjLZIDFcbTFSl7iXtYg7fCYj",
+    "name": "README_DF035_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2017_October/README_DF035_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1qjl7LbCvqWWEo_kyOz8N--q19cB9-1xq",
+    "name": "README_DF035_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2017_October/README_DF035_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF040": {
+  "model": "DJI Agras MG-1S",
+  "files": [
+   {
+    "id": "1qsuUHk941mfJlP6y3RaPtyjsST-HLIov",
+    "name": "df040_DJI_Agras_Controller_Chip.img",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 15758000128,
+    "path": "2017_December/controller_flash_chip/df040_DJI_Agras_Controller_Chip.img"
+   },
+   {
+    "id": "1AByWb3sF9wx-Da4zi7_cNMcagQSMOMPv",
+    "name": "df040_microSD_Internal_3F.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 169548083,
+    "path": "2017_December/SDCard_Internal_3F/df040_microSD_Internal_3F.E01"
+   },
+   {
+    "id": "1PatiTeBHsuUZkc83kkiFSfj1Lkag9aJh",
+    "name": "SD_Card_Internal_4F.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 5232359946,
+    "path": "2017_December/SDCard_Internal_4F/SD_Card_Internal_4F.E01"
+   },
+   {
+    "id": "1elLrvrmLG6Unafybhgts9FSFoiYSswty",
+    "name": "README_DF040_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3252,
+    "path": "2017_December/README_DF040_Drone_Forensics_Program.txt"
+   }
+  ]
+ },
+ "DF041": {
+  "model": "DJI Agras MG-1S",
+  "files": [
+   {
+    "id": "1NaZYCFjE_FB-UAIu6v3hFnFcCbAuyaB7",
+    "name": "df041_DJI_Agras_Controller_Physical_Intact.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 58017972,
+    "path": "2017_December/Controller_physical_intact_acquisition/df041_DJI_Agras_Controller_Physical_Intact.E01"
+   },
+   {
+    "id": "1W2UwYdAjrXZlAbJfRAYGQZdYbfQrf2sp",
+    "name": "df041_microSD_Intact_Physical.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 5233064274,
+    "path": "2017_December/SDCard_internal_acquisition/df041_microSD_Intact_Physical.E01"
+   },
+   {
+    "id": "1jb2LJh39lsM41row7ZedBKmDn5yPsI5p",
+    "name": "df041_microSD_2_Physical_Intact.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 188461607,
+    "path": "2017_December/SDCard_internal_acquisition_2/df041_microSD_2_Physical_Intact.E01"
+   },
+   {
+    "id": "1hWFNzBuFz3pT1aD8or_B9oxd0ITxx1hc",
+    "name": "README_DF041_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3275,
+    "path": "2017_December/README_DF041_Drone_Forensics_Program.txt"
+   }
+  ]
+ },
+ "DF042": {
+  "model": "DJI Spreading Wings S1000+",
+  "files": [
+   {
+    "id": "1z_jILg3UepjFJimUCuNkz3OIjff_KNjQ",
+    "name": "Controller_SD_Card.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 31914983424,
+    "path": "2018_January/SDCard_controller/Controller_SD_Card.001"
+   },
+   {
+    "id": "16FijJCdPVHmbtkXz2xUJexrzo_SYbBgU",
+    "name": "README_DF042_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 2845,
+    "path": "2018_January/README_DF042_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1NXcyXAKBhOkvZj2UanZqrT1n5wstozy9",
+    "name": "README_DF042_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_January/README_DF042_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1c7Pb3CMZ2AO0v6DxdgqUaIhKAkl5Maso",
+    "name": "README_DF042_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_January/README_DF042_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF043": {
+  "model": "DJI Spreading Wings S1000+",
+  "files": [
+   {
+    "id": "1WbYzROhvjlmc9u62Bi1uDucRD080a57S",
+    "name": "Config_Export.a2.cfg",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 1614,
+    "path": "2018_January/DJI_A2_software_export/Config_Export.a2.cfg"
+   },
+   {
+    "id": "122GHxowBtuU5dDNqLGmZEj_fsEye1g9l",
+    "name": "Mobile_Android_Logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 271830558,
+    "path": "2018_January/mobile_android_logical/Mobile_Android_Logical.zip"
+   },
+   {
+    "id": "17Fzy-t6isF41IjoVsSuFlwjno_Huy2x-",
+    "name": "iOS_Backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 22299399,
+    "path": "2018_January/mobile_iOS_backup/iOS_Backup.zip"
+   }
+  ]
+ },
+ "DF048": {
+  "model": "DJI Mavic Air",
+  "files": [
+   {
+    "id": "1H15ohlBpPR0yYSgV2T8DCp-OFXA8kYWT",
+    "name": "df048_Mavic_Air_Internal_Memory.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 8418291378,
+    "path": "2018_April/internal_memory_intact_physical_acquisition/df048_Mavic_Air_Internal_Memory.E01"
+   },
+   {
+    "id": "16arafTk1KCfjbyH_kkKPRIehD4m6UEO8",
+    "name": "MC 04.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 2521379428,
+    "path": "2018_April/mobile_android_logical/MC 04.zip"
+   },
+   {
+    "id": "1QrnKTrW2YhnZpX6VpRGZvr6QjEUQAlu1",
+    "name": "MC 04 iOS.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 172077545,
+    "path": "2018_April/mobile_iOS_backup/MC 04 iOS.zip"
+   },
+   {
+    "id": "1FuQ2l0azD6gGxCkPUpGDYBtilESpL4hf",
+    "name": "README_DF048_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3165,
+    "path": "2018_April/README_DF048_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1znA5_wYB6p-OqwnTeT6rhK-Aq3QeGkPH",
+    "name": "README_DF048_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_April/README_DF048_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1yh_d3OFSMGAKDOhcz5pdkt2LFdYlvgmH",
+    "name": "README_DF048_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_April/README_DF048_Drone_Forensics_Program.txt.SHA1"
+   },
+   {
+    "id": "1px0Ec1YRQ4uSU_FD1u9v1rjjcUKGx5B0",
+    "name": "Android_Logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 415154789,
+    "path": "2018_June/mobile_android_logical/Android_Logical.zip"
+   },
+   {
+    "id": "1a9qgfIOHhG2vGyHDxIehtfoGaL_1WEUG",
+    "name": "Mobile_iOS_Backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 495972601,
+    "path": "2018_June/mobile_iOS_backup/Mobile_iOS_Backup.zip"
+   },
+   {
+    "id": "1k4ieGcJ3lWBTB4u7SVPWc9ibPJYEL5Ru",
+    "name": "DF048.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 8418291569,
+    "path": "2018_June/SDCard_external/DF048.E01"
+   },
+   {
+    "id": "15pGTf9IcrXPNvQlaOw8qCAnVfm_pIVGV",
+    "name": "df048_internal_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 8589934592,
+    "path": "2018_June/SDCard_internal_intact_acquisition/df048_internal_microSD.001"
+   },
+   {
+    "id": "1pDJsnJzQmPSm-HViH1UeQYtNVkO6Fxjd",
+    "name": "README_DF048_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3389,
+    "path": "2018_June/README_DF048_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "1u76xhCTipJ5k8dFetUPGm5J-XzjELUXc",
+    "name": "README_DF048_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF048_Drone_Forensics_Program_June_2018.txt.MD5"
+   },
+   {
+    "id": "1S1u7hVorasB2JxMessEKifBLsnp12QBM",
+    "name": "README_DF048_Drone_Forensics_Program_June_2018.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF048_Drone_Forensics_Program_June_2018.txt.SHA1"
+   }
+  ]
+ },
+ "DF049": {
+  "model": "DJI Mavic Air",
+  "files": [
+   {
+    "id": "1p5ZtkYsRgdw2fbhA6xfyYMHht5VIU2J_",
+    "name": "DF049_Mavic_Air_Internal_Memory.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 8400635751,
+    "path": "2018_April/internal_memory_intact_physical_acquisition/DF049_Mavic_Air_Internal_Memory.E01"
+   },
+   {
+    "id": "1ywX7p6TD92XFUqk51y8O12Vkgez26WwT",
+    "name": "MC 05.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 750143493,
+    "path": "2018_April/mobile_android_logical/MC 05.zip"
+   },
+   {
+    "id": "1fr-BSbseixanyKju87IpVpB2Se0PINGt",
+    "name": "MC 05 iOS.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 24834922,
+    "path": "2018_April/mobile_iOS_backup/MC 05 iOS.zip"
+   },
+   {
+    "id": "1vRn8YWrYlYVkrrxnx08w6vCTG2y-rDN8",
+    "name": "README_DF049_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3162,
+    "path": "2018_April/README_DF049_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1jo32UooeiWP6M8cHenSbTYkQYPpoAY_m",
+    "name": "README_DF049_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_April/README_DF049_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1EUzFEDoDpttQGUxzYce545JdG3bcaYhQ",
+    "name": "README_DF049_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_April/README_DF049_Drone_Forensics_Program.txt.SHA1"
+   },
+   {
+    "id": "1D2kf_YJXTvzAOGudQokD6uvQ3vsUpOWx",
+    "name": "df049_external_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 7948206080,
+    "path": "2018_June/SDCard_external/df049_external_microSD.001"
+   },
+   {
+    "id": "1zoQ5kZt8QhKiNhud1ZwaJpJ9VCaZ3s0C",
+    "name": "DF049.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 8400636345,
+    "path": "2018_June/SDCard_internal_intact/DF049.E01"
+   },
+   {
+    "id": "16FlKRWhpgSAqrxWX-hEL3YoJdR2H2Wu9",
+    "name": "README_DF049_Drone_Forensics_Program_June_2018.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3055,
+    "path": "2018_June/README_DF049_Drone_Forensics_Program_June_2018.txt"
+   },
+   {
+    "id": "1y7LjR8uTW8MAZbCfZ_YuNJeROk7N3JjI",
+    "name": "README_DF049_Drone_Forensics_Program_June_2018.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF049_Drone_Forensics_Program_June_2018.txt.MD5"
+   },
+   {
+    "id": "1G10diXrl_CEnouq-x5lD49Ap1yWtjl7D",
+    "name": "README_DF049_Drone_Forensics_Program_June_2018.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF049_Drone_Forensics_Program_June_2018.txt.SHA1"
+   }
+  ]
+ },
+ "DF050": {
+  "model": "DJI Mavic Air",
+  "files": [
+   {
+    "id": "1_DX2qKqUuziIvd3wsHh2MTc1rixmTVV3",
+    "name": "dji_assistant_export.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 2055963306,
+    "path": "2018_April/DJI_Assistant_export/dji_assistant_export.zip"
+   },
+   {
+    "id": "1q-VE7aEb99h0w0ibx3hDlfUvC5fRGKO4",
+    "name": "MC 06.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 5261637873,
+    "path": "2018_April/mobile_android_logical/MC 06.zip"
+   },
+   {
+    "id": "1d6KFwUVWEplBVv4cMltHel8gUZ70soes",
+    "name": "MC 06 iOS.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 1784056686,
+    "path": "2018_April/mobile_iOS_backup/MC 06 iOS.zip"
+   },
+   {
+    "id": "1oPkp-AV2XgZmpMIC2mLVsTLoveGh8yOL",
+    "name": "df047_External_SD_Card.E01",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 24384244112,
+    "path": "2018_April/SDCard_external/df047_External_SD_Card.E01"
+   },
+   {
+    "id": "1FvxmFcHPmXhHBYDGh6WTRCjngFpCtcSK",
+    "name": "README_DF050_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3327,
+    "path": "2018_April/README_DF050_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1x-tQ2nQuu7X6ffO7YDR55YYBiEN1g6mI",
+    "name": "README_DF050_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_April/README_DF050_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "17hhstlWUDDH2bDp2mZHJaXtCk0IsOhkM",
+    "name": "README_DF050_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_April/README_DF050_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF059": {
+  "model": "DJI Matrice 210",
+  "files": [
+   {
+    "id": "1Tn7sye9dWXEx6DY8QJMDxI5WaOeSJh3j",
+    "name": "Controller_tablet_intact_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 55566139392,
+    "path": "2018_June/controller_tablet_intact/Controller_tablet_intact_physical.001"
+   },
+   {
+    "id": "1a-TWBYGB6TC4AAjpIoV-3yZA4lL3pF1A",
+    "name": "eMMC_Chip_Off.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 62537072640,
+    "path": "2018_June/IC_chip_physical/eMMC_Chip_Off.001"
+   },
+   {
+    "id": "1zrlRGczxCMUIzyHpMa9N988wKYsnOv8v",
+    "name": "df059_external_sd_card.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 15931539456,
+    "path": "2018_June/SDCard_external/df059_external_sd_card.001"
+   },
+   {
+    "id": "1M_faBqOfkFoyQgMzqbRTtU-3YO3oujFW",
+    "name": "df059_sdcard_internal.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 7948206080,
+    "path": "2018_June/SDCard_internal/df059_sdcard_internal.001"
+   },
+   {
+    "id": "1dsyisx7hehpm2fBIN969sd1OWPPNKsru",
+    "name": "README_DF059_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3379,
+    "path": "2018_June/README_DF059_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "173UFaUblHHH_Zi1NZp2FYc9FxMC7Wjnc",
+    "name": "README_DF059_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF059_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1vYmmzEwQgYwAF0yngJWQog_GaKidOllQ",
+    "name": "README_DF059_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF059_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF060": {
+  "model": "DJI Matrice 210",
+  "files": [
+   {
+    "id": "1wFiYlyCqaDw9O9uovY-57oOw9sQmDkyr",
+    "name": "mmcblk0",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_June/ADB_physical/mmcblk0"
+   },
+   {
+    "id": "1hH1kPFaJOvHYnBxOTt93v3zQ2AUu-_bU",
+    "name": "DJI_Assistant_Export_ADBS.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 76795,
+    "path": "2018_June/DJI_Assistant_export_ADB/DJI_Assistant_Export_ADBS.zip"
+   },
+   {
+    "id": "1wubKRD9PNIv_x1Wu2sXbBdyYrhCzn4z1",
+    "name": "SDCard_External_Physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 15931539456,
+    "path": "2018_June/SDCard_external/SDCard_External_Physical.001"
+   },
+   {
+    "id": "1b_g_5AlLCm3tbKxrfsYaBc6I7GUcDBcO",
+    "name": "SDCard_Internal_Intact_Physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 7948173824,
+    "path": "2018_June/SDCard_internal/SDCard_Internal_Intact_Physical.001"
+   },
+   {
+    "id": "1uJOhBCQK5evJ6bZziqdv8iy7vuWepBFE",
+    "name": "Tablet_Physical_Intact.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 55566139392,
+    "path": "2018_June/tablet_intact_physical/Tablet_Physical_Intact.001"
+   },
+   {
+    "id": "1sEOGvy4hQHxWGtG73JxlEjeoqLzMpKtr",
+    "name": "README_DF060_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3536,
+    "path": "2018_June/README_DF060_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1UspCGgrE_4_z_LuK3nbQauuWsfYG2lp8",
+    "name": "README_DF060_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF060_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1SgSCTHVHbEgqTVI7aViiHfG0_EUYj6O3",
+    "name": "README_DF060_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF060_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF061": {
+  "model": "DJI Phantom 4 Pro V2",
+  "files": [
+   {
+    "id": "1sLbeEuEIv-LV4VU5X2zHteDmgZmmgOAT",
+    "name": "DF_061_eMMC_Micron_Board_2F.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_June/chipoff_flash_memory_2f/DF_061_eMMC_Micron_Board_2F.001"
+   },
+   {
+    "id": "1KY0nWzJlcNGW2hONHPt4W-xsL7KWS6Cl",
+    "name": "df_061_eMMC_Micron_Board_6F.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_June/chipoff_flash_memory_6f/df_061_eMMC_Micron_Board_6F.001"
+   },
+   {
+    "id": "1yMEbMpWGriOzSmf1QwXaEpkuc3wyLahb",
+    "name": "mobile_android_logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 7761424798,
+    "path": "2018_June/mobile_android_logical/mobile_android_logical.zip"
+   },
+   {
+    "id": "1Y1mwxKi1yIcifcjGgeSjXyUceaLe8-R8",
+    "name": "mobile_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 855911901,
+    "path": "2018_June/mobile_iOS_backup/mobile_ios_backup.zip"
+   },
+   {
+    "id": "1Tbt7iHPaWZVjAQtFeRWUVeOvPf0Gouuf",
+    "name": "DF_061_DJI_Phantom_4_Pro_V2_External_SD_Card.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 16022241280,
+    "path": "2018_June/SDCard_external/DF_061_DJI_Phantom_4_Pro_V2_External_SD_Card.001"
+   },
+   {
+    "id": "1P9MDijpLjVn8Ie8vq58OUzDS9WEObM52",
+    "name": "README_DF061_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3408,
+    "path": "2018_June/README_DF061_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1VDVlsMhpecRpiLbv0_O4YHtvWFykl5SA",
+    "name": "README_DF061_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF061_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1-v4OcyekgSN_TIlc3xQrTwpmxLIT0VpX",
+    "name": "README_DF061_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF061_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF062": {
+  "model": "DJI Phantom 4 Pro V2",
+  "files": [
+   {
+    "id": "12pd8n1NZqb22mhSEX3kv_22dZEUjdRZX",
+    "name": "DF062 305.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 174449042,
+    "path": "2018_June/mobile_android_logical/DF062 305.zip"
+   },
+   {
+    "id": "1iH4snV55XzEDrTPI9N-sGwcdhsLCtl2u",
+    "name": "Phantom4ProV2DF062.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 911705710,
+    "path": "2018_June/mobile_iOS_backup/Phantom4ProV2DF062.zip"
+   },
+   {
+    "id": "18bivKfGiv9bCc4nZB7L9-UwFqsr7FSv3",
+    "name": "df062_DJI_Phantom_4_V2_external_SDcard.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 16022241280,
+    "path": "2018_June/SDCard_external/df062_DJI_Phantom_4_V2_external_SDcard.001"
+   },
+   {
+    "id": "1AxA0C8yhCj5vjTJX_Gw3J3uvsjRMtqVr",
+    "name": "df062_DJI_Phantom_Pro_V2_internal_sdcard_intact_physical.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 7948173824,
+    "path": "2018_June/SDCard_internal_intact/df062_DJI_Phantom_Pro_V2_internal_sdcard_intact_physical.001"
+   },
+   {
+    "id": "1PhDxiPwu7SI0kC3VrAX0Gspn1O4c529B",
+    "name": "README_DF062_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3381,
+    "path": "2018_June/README_DF062_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1YjZ76iATP6T_hX4AY9aQw-SQ-9gzwc2Q",
+    "name": "README_DF062_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF062_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "169Cn0AzTxtTCiiNjy95UZiaUIAeK24Ms",
+    "name": "README_DF062_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF062_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF063": {
+  "model": "DJI Phantom 4 Pro V2",
+  "files": [
+   {
+    "id": "1q8jTOJ3a0-Qa1GBigeRbkdkrtahHdivD",
+    "name": "Media01.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 332515312,
+    "path": "2018_June/mobile_android_logical/Media01.zip"
+   },
+   {
+    "id": "1JYCjwDn3DMJuaWioFXjUyg0d6RU3CzVK",
+    "name": "mobile_iOS_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 592774510,
+    "path": "2018_June/mobile_iOS_backup/mobile_iOS_backup.zip"
+   },
+   {
+    "id": "1NeeVRooNViU_yodp_C2FkCE8w80k7v9E",
+    "name": "df_063_external_sd_card.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 16022241280,
+    "path": "2018_June/SDCard_external/df_063_external_sd_card.001"
+   },
+   {
+    "id": "196Fb2O7xxbv4obgnkH5v8tlpP95OxWnR",
+    "name": "DF_063_Internal_SD_Card_Physical_Intact.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 7948173824,
+    "path": "2018_June/SDCard_internal/DF_063_Internal_SD_Card_Physical_Intact.001"
+   },
+   {
+    "id": "1WDvQ4btXFsBoJ95Ij3V2iHtBn8J7Mt-x",
+    "name": "README_DF063_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3373,
+    "path": "2018_June/README_DF063_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1ay5Qb4qwpFFDOr0BhFxWmr_W_FD1CSoS",
+    "name": "README_DF063_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_June/README_DF063_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "17ZYv-fxZUUElEyPNEtb3jF-oXJg071Ox",
+    "name": "README_DF063_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_June/README_DF063_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF067": {
+  "model": "DJI Mavic 2 Zoom",
+  "files": [
+   {
+    "id": "16PxNHyUz_oAXu0iRRIlO_lJ8HU2xD1NJ",
+    "name": "eMMC_Micron_Flash_Aircraft_Chipoff.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_September/eMMC_Micron_flash_aircraft_chipoff/eMMC_Micron_Flash_Aircraft_Chipoff.001"
+   },
+   {
+    "id": "1GU35tQuRglfEmATQL9h2pwF6Bu-kDB-h",
+    "name": "eMMC_Micron_Flash_Controller_Chipoff.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_September/eMMC_Micron_flash_controller_chipoff/eMMC_Micron_Flash_Controller_Chipoff.001"
+   },
+   {
+    "id": "1Ia4eUjZyiMFGhTnljh7Wm9Z9av0Gdinu",
+    "name": "eMMC_Micron_Flash_Goggles_Chipoff.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_September/eMMC_Micron_flash_goggles_chipoff/eMMC_Micron_Flash_Goggles_Chipoff.001"
+   },
+   {
+    "id": "1mGwqwyCagJgZOcTHQCBxRAiv0xBtIYFM",
+    "name": "Samsung_Flash_Chipoff.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 15634268160,
+    "path": "2018_September/eMMC_Samsung_flash_aircraft_chipoff/Samsung_Flash_Chipoff.001"
+   },
+   {
+    "id": "1-OtPsL2gV-xH9g5b6RoiOu3rpg5zCNSj",
+    "name": "Android_Logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 524785922,
+    "path": "2018_September/mobile_android_logical/Android_Logical.zip"
+   },
+   {
+    "id": "16H3-Fv6ceCzsvMCU_jHLrkSXLtdgDpGe",
+    "name": "iOS_Backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 418731787,
+    "path": "2018_September/mobile_iOS_backup/iOS_Backup.zip"
+   },
+   {
+    "id": "1yVJIQJPld05EZ9pjx5ceXFBcx9Tlx72z",
+    "name": "SDCard_External_Aircraft.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3965190144,
+    "path": "2018_September/SDCard_external_aircraft/SDCard_External_Aircraft.001"
+   },
+   {
+    "id": "1V19wZqJC0pJ3ZklEJF53yUapV5458el_",
+    "name": "SDCard_External_Goggles.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3980394496,
+    "path": "2018_September/SDCard_external_goggles/SDCard_External_Goggles.001"
+   },
+   {
+    "id": "1o1-7YTa8sxSY_zxZhS8Ge-qBIDe1YYDx",
+    "name": "README_DF067_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 4090,
+    "path": "2018_September/README_DF067_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "118GsXt_w4LTqicSmkfC7A-pVSWAmQbrs",
+    "name": "README_DF067_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_September/README_DF067_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1cV72YB_RE6WQ-yPNuAJz1xODrH41ScWz",
+    "name": "README_DF067_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_September/README_DF067_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF068": {
+  "model": "DJI Mavic 2 Zoom",
+  "files": [
+   {
+    "id": "1LUKf7E3JeozCTlsIwNE_I4ETxuSLZ24c",
+    "name": "mmcblk0",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_September/ADB_goggles_physical/mmcblk0"
+   },
+   {
+    "id": "1xs5AqVB1zGoeUwZ4NXB6_UOQ5s3RnAeE",
+    "name": "Android_Logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 639278096,
+    "path": "2018_September/mobile_android_logical/Android_Logical.zip"
+   },
+   {
+    "id": "12bEY_rpL-e6ddlWjZV14pNDJXTTtynwS",
+    "name": "iOS_Backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 43806506,
+    "path": "2018_September/mobile_iOS_backup/iOS_Backup.zip"
+   },
+   {
+    "id": "1SrvmIkRgd9dpBqf6w16qocROt1Vh2e1J",
+    "name": "df068_external_microSD.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 31719424000,
+    "path": "2018_September/SDCard_external_aircraft/df068_external_microSD.001"
+   },
+   {
+    "id": "1-WqLlMO_wE6T4vwanY4jFdJNZ7_NJ4QL",
+    "name": "SDCard_External_Goggles.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 31914983424,
+    "path": "2018_September/SDCard_external_goggles/SDCard_External_Goggles.001"
+   },
+   {
+    "id": "1aHKCRpURNw3k5tM-77POo-aVrGM_Vt_V",
+    "name": "SDCard_Internal_Aircraft_Intact.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 8589934592,
+    "path": "2018_September/SDCard_internal_aircraft_intact/SDCard_Internal_Aircraft_Intact.001"
+   },
+   {
+    "id": "1yo6fiVAyCS9EI0i_KPprDKGaZ_TcfGxo",
+    "name": "README_DF068_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3690,
+    "path": "2018_September/README_DF068_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1n0AggopZ2CsN9tURwW1Bq2uyPN-Pshjs",
+    "name": "README_DF068_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_September/README_DF068_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1_XXm2zIeHSXG5kluWlaYpGO2a7uGaOsE",
+    "name": "README_DF068_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_September/README_DF068_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF069": {
+  "model": "DJI Mavic 2 Pro",
+  "files": [
+   {
+    "id": "1loojBxgmUkOp8pLdDvp5pQl82FsKhqXa",
+    "name": "mmcblk0",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_September/ADB_goggles_physical/mmcblk0"
+   },
+   {
+    "id": "1AcbRr_f6MvmtIYadDR43y1WECrPRb2U-",
+    "name": "DJI_ASSISTANT_EXPORT.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 1955234206,
+    "path": "2018_September/DJI_assistant_export/DJI_ASSISTANT_EXPORT.zip"
+   },
+   {
+    "id": "1rf4yhyI0wdhv0F_FHLEaGlQ5ZeQcpvZl",
+    "name": "Android_Logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 251335117,
+    "path": "2018_September/mobile_android_logical/Android_Logical.zip"
+   },
+   {
+    "id": "1-Y8auLa7VxETuZ5TojfTkm7GC12SMb8f",
+    "name": "iOS_Backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 376541992,
+    "path": "2018_September/mobile_iOS_backup/iOS_Backup.zip"
+   },
+   {
+    "id": "1b3AGSuXMzAkvI1zDlsHh6T8BIrR1TD3D",
+    "name": "SDCard_External.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3965190144,
+    "path": "2018_September/SDCard_external_aircraft/SDCard_External.001"
+   },
+   {
+    "id": "1CtMM6Gkddx1rmkZkSac6udjDaWGYHBgj",
+    "name": "Racing_Goggles_SDCard_External.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 15811477504,
+    "path": "2018_September/SDCard_external_goggles/Racing_Goggles_SDCard_External.001"
+   },
+   {
+    "id": "1Y9wrBgBNt6ppXqyf1lxDtM_qXa5mJlZQ",
+    "name": "SDCard_Internal_Intact.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 8589934592,
+    "path": "2018_September/SDCard_internal_aircraft_intact/SDCard_Internal_Intact.001"
+   },
+   {
+    "id": "1pWL8crBam41eEjECYA_PYNJXrdcGxUs2",
+    "name": "README_DF069_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3855,
+    "path": "2018_September/README_DF069_Drone_Forensics_Program.txt"
+   },
+   {
+    "id": "1GqPJvcwZ2z07qQNWE-ZI-7GkbqDcj9Db",
+    "name": "README_DF069_Drone_Forensics_Program.txt.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_September/README_DF069_Drone_Forensics_Program.txt.MD5"
+   },
+   {
+    "id": "1YzNOl96zI802EHeaHn1fO81_3cGcO4_7",
+    "name": "README_DF069_Drone_Forensics_Program.txt.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_September/README_DF069_Drone_Forensics_Program.txt.SHA1"
+   }
+  ]
+ },
+ "DF081": {
+  "model": "DJI Mavic 2 Enterprise",
+  "files": [
+   {
+    "id": "1XkG_g0pFXIZJFnJNKx_2JmAJsQ5p3OeL",
+    "name": "aircraft_logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 3252031768,
+    "path": "2018_November/aircraft_logical/aircraft_logical.zip"
+   },
+   {
+    "id": "14-WGhbZYEBdtXvDfv_3G75_GWcEZMZDs",
+    "name": "controller_logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 294923522,
+    "path": "2018_November/controller_logical/controller_logical.zip"
+   },
+   {
+    "id": "1nLCxecr1eZrxztt-OyOYOrmwhtlzvZs7",
+    "name": "media_partition_intact.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 24339525632,
+    "path": "2018_November/media_partition_intact_acquisition/media_partition_intact.001"
+   },
+   {
+    "id": "1bQcyRC5Pg-lfJtBXwgTTlrTlH65lW7Lh",
+    "name": "mobile_android_logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 39022045,
+    "path": "2018_November/mobile_android/mobile_android_logical.zip"
+   },
+   {
+    "id": "1wsrsDtrNfpxhKDgpbjRJzfChw0sjRIja",
+    "name": "mobile_android_physical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 28680244414,
+    "path": "2018_November/mobile_android/mobile_android_physical.zip"
+   },
+   {
+    "id": "1L72sE5fbXs6MiG-XsiQCZLJofbbnCs3n",
+    "name": "mobile_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 702516447,
+    "path": "2018_November/mobile_iOS/mobile_ios_backup.zip"
+   },
+   {
+    "id": "1qfVlskar1ICO1P6L8f3AGd10i4NEP-D9",
+    "name": "sdcard_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 31910789120,
+    "path": "2018_November/SDCard_external/sdcard_external.001"
+   },
+   {
+    "id": "1q2c16GBr07wu948px5FG1ZBdvk5kMecD",
+    "name": "README_DF081_Drone_Forensics_Program.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_November/README_DF081_Drone_Forensics_Program.MD5"
+   },
+   {
+    "id": "1N0RO_MchXFnCLcbkrrLX5P9nY9IfUFqg",
+    "name": "README_DF081_Drone_Forensics_Program.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_November/README_DF081_Drone_Forensics_Program.SHA1"
+   },
+   {
+    "id": "1HD7-qG1gMy7xaaCcycyCnSH0QRg__fbg",
+    "name": "README_DF081_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 3898,
+    "path": "2018_November/README_DF081_Drone_Forensics_Program.txt"
+   }
+  ]
+ },
+ "DF082": {
+  "model": "DJI Mavic 2 Enterprise",
+  "files": [
+   {
+    "id": "1f3ebSo_6yfRyB1Ohpdagt8MrepDTmZqN",
+    "name": "aircraft_logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 2600419851,
+    "path": "2018_November/aircraft_logical/aircraft_logical.zip"
+   },
+   {
+    "id": "13YicMKE50TK3kpsoTH6-BkPIlRnH-KxO",
+    "name": "controller_logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 221532146,
+    "path": "2018_November/controller_logical/controller_logical.zip"
+   },
+   {
+    "id": "1Dxky6lzSoI4loyw1vuietKfN4k74M4gG",
+    "name": "emmc_micron_aircraft.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_November/eMMC_Micron_aircraft/emmc_micron_aircraft.001"
+   },
+   {
+    "id": "1Qb3xZyu2t27_FEmBMkf9hxPE8A56Jerw",
+    "name": "emmc_micron_controller.dd",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 3917479936,
+    "path": "2018_November/eMMC_Micron_controller/emmc_micron_controller.dd"
+   },
+   {
+    "id": "1DqrSk6BBnhZr0oM9svlgV98yjPKmBCds",
+    "name": "emmc_samsung_aircraft.dd",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 31268536320,
+    "path": "2018_November/eMMC_Samsung_aircraft/emmc_samsung_aircraft.dd"
+   },
+   {
+    "id": "1I-MbiDeN70SWv8jKFcFR3dRfB0h43Z1I",
+    "name": "media_partition_intact.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 24339525632,
+    "path": "2018_November/media_partion_intact_acquisition/media_partition_intact.001"
+   },
+   {
+    "id": "1uiDRUQbA_fcvIDjJv8sFI-h6GL4wWf6O",
+    "name": "mobile_android_logical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 46699865,
+    "path": "2018_November/mobile_android/mobile_android_logical.zip"
+   },
+   {
+    "id": "1zQa5sWpdDdTI46SyC8pNM75L8XIfTtbl",
+    "name": "mobile_android_physical.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 11188360989,
+    "path": "2018_November/mobile_android/mobile_android_physical.zip"
+   },
+   {
+    "id": "1-LSPfIN_TCJvoF5kWzt3r6d4KHqdF87M",
+    "name": "mobile_ios_backup.zip",
+    "mime": "application/zip",
+    "resourcekey": null,
+    "size": 838775603,
+    "path": "2018_November/mobile_iOS/mobile_ios_backup.zip"
+   },
+   {
+    "id": "1Qvt_Hq3upXizTZPn07QqGyEkPtysNOdg",
+    "name": "sdcard_external.001",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 31910789120,
+    "path": "2018_November/SDCard_external/sdcard_external.001"
+   },
+   {
+    "id": "1pymkHUO9PzZd8h_DXNdx7z6N9K63cP-x",
+    "name": "README_DF082_Drone_Forensics_Program.MD5",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 32,
+    "path": "2018_November/README_DF082_Drone_Forensics_Program.MD5"
+   },
+   {
+    "id": "1rZHB67SPq1B9SE5OOt9BT5yzEjdeFjn5",
+    "name": "README_DF082_Drone_Forensics_Program.SHA1",
+    "mime": "application/octet-stream",
+    "resourcekey": null,
+    "size": 40,
+    "path": "2018_November/README_DF082_Drone_Forensics_Program.SHA1"
+   },
+   {
+    "id": "1Puptnxkwbe1bbz22TjON98Tk5B7FIUFW",
+    "name": "README_DF082_Drone_Forensics_Program.txt",
+    "mime": "text/plain",
+    "resourcekey": null,
+    "size": 4410,
+    "path": "2018_November/README_DF082_Drone_Forensics_Program.txt"
+   }
+  ]
+ }
+}

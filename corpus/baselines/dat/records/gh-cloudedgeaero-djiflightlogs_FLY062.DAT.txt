@@ -1,0 +1,48 @@
+sha256: d8179e4e98d3d9ee55ba0f12b08104baaac08ebfc708aac7fb6401678cde05d1
+file: FLY062.DAT
+kind: dat_v1  model: Unidentified DJI (V1-era DAT, product code 6)  product_code: 6  build: BUILD Jan 14 2015 21:27:56
+clock: 600.0 Hz (header u32@0x30: 600)  records start at 128
+records ok: 145488  crc16 fail: 0  crc8 fail: 0  bad length: 0  resyncs: 0  skipped bytes: 4013  zero pad: 0  truncated tail: 0
+tick rollovers: 0  protover!=0: 0  len>255: 0  seq dropped: 219  jump dropped: 0
+duration: 36.413 s   tablet/app-side (no type 12): False
+
+  type    hex name                        count  decoded   failed   rate_hz  payload lengths
+     0   0000 controller_v1                1711      342        0     50.00  78
+     1   0001 imu_atti_v1                  6848      342        0    200.00  120
+     3   0003 imu_ex                       6847        0        0    200.00  42
+     4   0004 compass                       856        0        0     25.00  8
+     5   0005 gps_glns_v1                   169      169        0      5.01  68
+     7   0007 imu_data                     6848        0        0    200.00  48
+     9   0009                                45        0        0     50.29  36
+    10   000A                              1712        0        0     50.00  72
+    11   000B                               169        0        0      5.01  65
+    12   000C osd_general                   342        0        0     10.00  49
+    13   000D osd_home                       30       30        0      1.00  26
+    14   000E                               342        0        0      9.98  20
+    16   0010                               859        0        0     25.07  4
+    17   0011 battery_info_v1                29       29        0      0.91  45
+    18   0012 smart_battery_info_v1          31        0        0      1.00  54
+    19   0013                                30        0        0      1.00  2
+    20   0014                             20543        0        0    600.00  16
+    21   0015                                67        0        0     50.00  32
+    24   0018                                 9        0        0     50.00  32
+    26   001A                              1711        0        0     50.00  13
+    27   001B                             20544        0        0    600.00  18
+    28   001C                             20544        0        0    600.00  18
+    35   0023                             20544        0        0    600.00  24
+    36   0024                             20544        0        0    600.00  16
+    50   0032                              1711        0        0     50.01  62
+    51   0033                              1711        0        0     50.01  97
+    52   0034                              1711        0        0     50.01  189
+    53   0035                              1711        0        0     50.01  12
+    60   003C                              1711        0        0     50.01  60
+    70   0046                              1711        0        0     50.01  2
+    80   0050                              1711        0        0     50.01  128
+ 32768   8000 fly_log_text                   72        0        0      9.76  38(x30),23(x5),37(x5),39(x5)
+ 52720   CDF0                               571        0        0     16.67  42
+ 52721   CDF1 esc_data_v1                   725        0        0     21.24  60
+ 65280   FF00 sd_logs                       196        0        0      5.77  21(x180),20(x16)
+ 65535   FFFF sys_cfg                       573        0        0     49.99  56(x75),54(x56),40(x53),45(x25)
+
+warning: fast path: record CRC-16 verified for every record used in frames, events and the UTC anchor; framing of other records validated by header CRC-8 and chain continuity
+warning: 219 records with non-increasing tick were excluded from frames (DatCon sequence rule)

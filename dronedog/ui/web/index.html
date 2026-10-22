@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: blob:; connect-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<title>DroneDog</title>
+<link rel="icon" type="image/png" href="assets/logo_32.png">
+<script src="js/boot.js"></script>
+<link rel="stylesheet" href="vendor/leaflet/1.9.4/leaflet.css">
+<link rel="stylesheet" href="vendor/uplot/1.6.32/uPlot.min.css">
+<link rel="stylesheet" href="css/app.css">
+<script src="vendor/leaflet/1.9.4/leaflet.js"></script>
+</head>
+<body>
+<div id="app" class="shell">
+  <aside class="nav" id="nav"></aside>
+  <header class="topbar" id="topbar"></header>
+  <main class="view" id="view" tabindex="-1"></main>
+</div>
+<div id="toasts" class="toasts" aria-live="polite"></div>
+<div id="drop-overlay" class="drop-overlay" hidden>
+  <div class="drop-overlay-inner">Drop files, folders or disk images to stage them for import</div>
+</div>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

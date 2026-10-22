@@ -1,0 +1,748 @@
+[
+ {
+  "name": "DF040 Agras MG-1S internal SD (E01)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF040\\2017_December\\SDCard_Internal_3F\\df040_microSD_Internal_3F.E01"
+  ],
+  "seconds": 60.4,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 49,
+  "parsed": 49,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 49,
+  "classes": {
+   "empty": 1,
+   "events_only": 48
+  },
+  "real_flights": 0,
+  "real_with_track": 0,
+  "real_with_place": 0,
+  "records_with_battery_sn": 0,
+  "records_with_fc_or_aircraft_id": 47,
+  "places": [],
+  "models": [
+   "Unidentified DJI (V1-era DAT, product code 6)"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF041 Agras MG-1S internal SD #2 (folder holding an E01)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF041\\2017_December\\SDCard_internal_acquisition_2"
+  ],
+  "seconds": 91.4,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 31,
+  "parsed": 31,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 31,
+  "classes": {
+   "empty": 1,
+   "events_only": 30
+  },
+  "real_flights": 0,
+  "real_with_track": 0,
+  "real_with_place": 0,
+  "records_with_battery_sn": 0,
+  "records_with_fc_or_aircraft_id": 30,
+  "places": [],
+  "models": [
+   "Unidentified DJI (V1-era DAT, product code 6)"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "Constructed P4P internal SD image, deleted FLY140 (raw .dd)",
+  "origin": "DroneDog demo (built from EPFL CC0 DATs)",
+  "inputs": [
+   "corpus\\demo\\DroneDog_DEMO_P4P_internalSD_CONSTRUCTED.dd"
+  ],
+  "seconds": 25.3,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 6,
+  "parsed": 6,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 1,
+  "flight_records": 6,
+  "classes": {
+   "flight": 6
+  },
+  "real_flights": 6,
+  "real_with_track": 6,
+  "real_with_place": 6,
+  "records_with_battery_sn": 6,
+  "records_with_fc_or_aircraft_id": 6,
+  "places": [
+   "Ecublens, Vaud, Switzerland"
+  ],
+  "models": [
+   "Unidentified DJI (V3-era DAT, product code 35)"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF001 Phantom 3 flight logs (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF001\\2018_June\\flight_logs\\flight_logs.zip"
+  ],
+  "seconds": 40.2,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 22,
+  "parsed": 22,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 22,
+  "classes": {
+   "powered_on": 17,
+   "flight": 5
+  },
+  "real_flights": 5,
+  "real_with_track": 5,
+  "real_with_place": 5,
+  "records_with_battery_sn": 20,
+  "records_with_fc_or_aircraft_id": 18,
+  "places": [
+   "Hot Sulphur Springs, Grand County, Colorado, United States"
+  ],
+  "models": [
+   "Phantom 3 Standard",
+   "Unidentified DJI (V1-era DAT, product code 6)"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF010 Inspire 1 flight logs (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF010\\2018_June\\flight_logs\\flight_logs.zip"
+  ],
+  "seconds": 28.0,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 19,
+  "parsed": 19,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 19,
+  "classes": {
+   "powered_on": 16,
+   "motors_only": 1,
+   "flight": 2
+  },
+  "real_flights": 2,
+  "real_with_track": 2,
+  "real_with_place": 2,
+  "records_with_battery_sn": 17,
+  "records_with_fc_or_aircraft_id": 19,
+  "places": [
+   "Hot Sulphur Springs, Grand County, Colorado, United States"
+  ],
+  "models": [
+   "Inspire 1",
+   "Unidentified DJI (V1-era DAT, product code 6)"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF019 Mavic Pro iOS backup (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF019\\2017_August\\mobile_iOS_backup\\df019_flight_ios_backup.zip"
+  ],
+  "seconds": 1.1,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 7,
+  "parsed": 5,
+  "encrypted": 0,
+  "unsupported": 2,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 5,
+  "classes": {
+   "events_only": 2,
+   "flight": 3
+  },
+  "real_flights": 3,
+  "real_with_track": 3,
+  "real_with_place": 3,
+  "records_with_battery_sn": 3,
+  "records_with_fc_or_aircraft_id": 5,
+  "places": [
+   "Hot Sulphur Springs, Grand County, Colorado, United States"
+  ],
+  "models": [
+   "MavicPro"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF019 Mavic Pro DJI Assistant export (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF019\\2018_June\\DJI_Assistant_export\\DJI_Assistant_Export.zip"
+  ],
+  "seconds": 0.4,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 0,
+  "parsed": 0,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 0,
+  "classes": {},
+  "real_flights": 0,
+  "real_with_track": 0,
+  "real_with_place": 0,
+  "records_with_battery_sn": 0,
+  "records_with_fc_or_aircraft_id": 0,
+  "places": [],
+  "models": [],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF007 Spark DJI Assistant export (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF007\\2018_June\\DJI_Assistant_export\\DJI_Assistant_Export.zip"
+  ],
+  "seconds": 0.1,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 0,
+  "parsed": 0,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 0,
+  "classes": {},
+  "real_flights": 0,
+  "real_with_track": 0,
+  "real_with_place": 0,
+  "records_with_battery_sn": 0,
+  "records_with_fc_or_aircraft_id": 0,
+  "places": [],
+  "models": [],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF007 Spark iOS backup (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF007\\2018_June\\mobile_iOS\\ios_backup.zip"
+  ],
+  "seconds": 1.5,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 8,
+  "parsed": 8,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 8,
+  "classes": {
+   "powered_on": 4,
+   "flight": 2,
+   "events_only": 2
+  },
+  "real_flights": 2,
+  "real_with_track": 2,
+  "real_with_place": 2,
+  "records_with_battery_sn": 2,
+  "records_with_fc_or_aircraft_id": 6,
+  "places": [
+   "Hot Sulphur Springs, Grand County, Colorado, United States"
+  ],
+  "models": [
+   "Spark"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF008 Spark DJI Assistant export (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF008\\2018_June\\DJI_Assistant_Export\\DJI_Assistant_Export.zip"
+  ],
+  "seconds": 0.1,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 0,
+  "parsed": 0,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 0,
+  "classes": {},
+  "real_flights": 0,
+  "real_with_track": 0,
+  "real_with_place": 0,
+  "records_with_battery_sn": 0,
+  "records_with_fc_or_aircraft_id": 0,
+  "places": [],
+  "models": [],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF034 Matrice 600 Pro iOS backup (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF034\\2018_June\\mobile_iOS_backup\\ios_backup.zip"
+  ],
+  "seconds": 0.7,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 2,
+  "parsed": 2,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 2,
+  "classes": {
+   "flight": 1,
+   "events_only": 1
+  },
+  "real_flights": 1,
+  "real_with_track": 1,
+  "real_with_place": 1,
+  "records_with_battery_sn": 1,
+  "records_with_fc_or_aircraft_id": 2,
+  "places": [
+   "Hot Sulphur Springs, Grand County, Colorado, United States"
+  ],
+  "models": [
+   "Matrice600Pro"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF043 S1000+ iOS backup (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF043\\2018_January\\mobile_iOS_backup\\iOS_Backup.zip"
+  ],
+  "seconds": 0.3,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 2,
+  "parsed": 2,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 2,
+  "classes": {
+   "events_only": 1,
+   "motors_only": 1
+  },
+  "real_flights": 0,
+  "real_with_track": 0,
+  "real_with_place": 0,
+  "records_with_battery_sn": 0,
+  "records_with_fc_or_aircraft_id": 1,
+  "places": [],
+  "models": [
+   "LB2"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF049 Mavic Air iOS backup (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF049\\2018_April\\mobile_iOS_backup\\MC 05 iOS.zip"
+  ],
+  "seconds": 0.2,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 0,
+  "parsed": 0,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 0,
+  "classes": {},
+  "real_flights": 0,
+  "real_with_track": 0,
+  "real_with_place": 0,
+  "records_with_battery_sn": 0,
+  "records_with_fc_or_aircraft_id": 0,
+  "places": [],
+  "models": [],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF060 Matrice 210 Assistant export (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF060\\2018_June\\DJI_Assistant_export_ADB\\DJI_Assistant_Export_ADBS.zip"
+  ],
+  "seconds": 0.0,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 0,
+  "parsed": 0,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 0,
+  "classes": {},
+  "real_flights": 0,
+  "real_with_track": 0,
+  "real_with_place": 0,
+  "records_with_battery_sn": 0,
+  "records_with_fc_or_aircraft_id": 0,
+  "places": [],
+  "models": [],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF068 Mavic 2 Zoom iOS backup (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF068\\2018_September\\mobile_iOS_backup\\iOS_Backup.zip"
+  ],
+  "seconds": 1.8,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 4,
+  "parsed": 4,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 4,
+  "classes": {
+   "powered_on": 1,
+   "flight": 2,
+   "events_only": 1
+  },
+  "real_flights": 2,
+  "real_with_track": 2,
+  "real_with_place": 2,
+  "records_with_battery_sn": 2,
+  "records_with_fc_or_aircraft_id": 3,
+  "places": [
+   "Todd Creek, Adams County, Colorado, United States"
+  ],
+  "models": [
+   "Mavic2",
+   "Unidentified DJI (V3-era DAT, product code 41)"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF069 Mavic 2 Pro Android logical (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF069\\2018_September\\mobile_android_logical\\Android_Logical.zip"
+  ],
+  "seconds": 1.7,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 6,
+  "parsed": 2,
+  "encrypted": 0,
+  "unsupported": 4,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 2,
+  "classes": {
+   "empty": 1,
+   "flight": 1
+  },
+  "real_flights": 1,
+  "real_with_track": 1,
+  "real_with_place": 1,
+  "records_with_battery_sn": 1,
+  "records_with_fc_or_aircraft_id": 1,
+  "places": [
+   "Todd Creek, Adams County, Colorado, United States"
+  ],
+  "models": [
+   "Mavic2"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF081 Mavic 2 Enterprise Android logical (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF081\\2018_November\\mobile_android\\mobile_android_logical.zip"
+  ],
+  "seconds": 0.6,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 3,
+  "parsed": 3,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 3,
+  "classes": {
+   "flight": 3
+  },
+  "real_flights": 3,
+  "real_with_track": 3,
+  "real_with_place": 3,
+  "records_with_battery_sn": 3,
+  "records_with_fc_or_aircraft_id": 3,
+  "places": [
+   "Eldorado Springs, Boulder County, Colorado, United States"
+  ],
+  "models": [
+   "Mavic2Enterprise"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "DF082 Mavic 2 Enterprise Android logical (zip)",
+  "origin": "CFReDS / VTO Labs",
+  "inputs": [
+   "corpus\\raw\\cfreds\\DF082\\2018_November\\mobile_android\\mobile_android_logical.zip"
+  ],
+  "seconds": 0.6,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 3,
+  "parsed": 3,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 3,
+  "classes": {
+   "flight": 3
+  },
+  "real_flights": 3,
+  "real_with_track": 3,
+  "real_with_place": 3,
+  "records_with_battery_sn": 3,
+  "records_with_fc_or_aircraft_id": 3,
+  "places": [
+   "Eldorado Springs, Boulder County, Colorado, United States"
+  ],
+  "models": [
+   "Mavic2Enterprise"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "EPFL Phantom 4 Pro flights (DataverseNO AFDYLS, CC0)",
+  "origin": "DataverseNO (ground truth: DatCon CSVs)",
+  "inputs": [
+   "corpus\\_work\\dataverse"
+  ],
+  "seconds": 20.9,
+  "state": "done",
+  "evidence": 1,
+  "artifacts": 6,
+  "parsed": 6,
+  "encrypted": 0,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 6,
+  "classes": {
+   "flight": 6
+  },
+  "real_flights": 6,
+  "real_with_track": 6,
+  "real_with_place": 6,
+  "records_with_battery_sn": 6,
+  "records_with_fc_or_aircraft_id": 6,
+  "places": [
+   "Ecublens, Vaud, Switzerland"
+  ],
+  "models": [
+   "Unidentified DJI (V3-era DAT, product code 35)"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ },
+ {
+  "name": "Public GitHub / Zenodo / HF samples (DAT + TXT)",
+  "origin": "public repositories, see SOURCE.md per folder",
+  "inputs": [
+   "corpus\\raw\\gh-acuasi-fmv-log-converter",
+   "corpus\\raw\\gh-aleapp-djiflightrecordtxt",
+   "corpus\\raw\\gh-ammar321an-decryption-dji-log",
+   "corpus\\raw\\gh-bvermeulen-dji-mavic",
+   "corpus\\raw\\gh-chrisvm-node-djiparsetxt",
+   "corpus\\raw\\gh-cloudedgeaero-djiflightlogs",
+   "corpus\\raw\\gh-datmap-v2",
+   "corpus\\raw\\gh-dfler",
+   "corpus\\raw\\gh-drdp",
+   "corpus\\raw\\gh-droneforensiq",
+   "corpus\\raw\\gh-dronenlp-dataset-casestudy",
+   "corpus\\raw\\gh-dronextract",
+   "corpus\\raw\\gh-drop",
+   "corpus\\raw\\gh-edancain-dji-parser-static-lib",
+   "corpus\\raw\\gh-flightviewer",
+   "corpus\\raw\\gh-g-strickler-dji-kml",
+   "corpus\\raw\\gh-igorkilipenko-dji-log-parser-js",
+   "corpus\\raw\\gh-isensuiuc-dji-flight-log",
+   "corpus\\raw\\gh-issue-attachments",
+   "corpus\\raw\\gh-jakub-drone-log-visualizer",
+   "corpus\\raw\\gh-mahim37-drone-data-toolkit",
+   "corpus\\raw\\gh-pydjirecord",
+   "corpus\\raw\\gh-ryokochang-dji-to-fmv",
+   "corpus\\raw\\gh-se0wtf-go-djilogs",
+   "corpus\\raw\\gh-therobbrennan-dji-flight-record-review",
+   "corpus\\raw\\gh-wildellie-flight-log-parser",
+   "corpus\\raw\\zenodo-3257355",
+   "corpus\\raw\\zenodo-3604005",
+   "corpus\\raw\\hf-nominal-io-dji-drone-telemetry"
+  ],
+  "seconds": 17.8,
+  "state": "done",
+  "evidence": 43,
+  "artifacts": 152,
+  "parsed": 79,
+  "encrypted": 73,
+  "unsupported": 0,
+  "failed": 0,
+  "deleted_found": 0,
+  "flight_records": 152,
+  "classes": {
+   "powered_on": 14,
+   "flight": 62,
+   "motors_only": 2,
+   "events_only": 1,
+   "encrypted": 73
+  },
+  "real_flights": 62,
+  "real_with_track": 62,
+  "real_with_place": 62,
+  "records_with_battery_sn": 132,
+  "records_with_fc_or_aircraft_id": 140,
+  "places": [
+   "Candelero Arriba, Humacao, Puerto Rico",
+   "Cleckheaton, England, United Kingdom",
+   "Comunas, Yabucoa, Puerto Rico",
+   "Elitnyy, Novosibirsk Oblast, Russia",
+   "Hot Sulphur Springs, Grand County, Colorado, United States",
+   "Kazimierz Dolny, Lublin, Poland",
+   "Kerteminde, South Denmark, Denmark",
+   "Lady Lake, Lake County, Florida, United States",
+   "Leme, Rio de Janeiro, Brazil",
+   "Lemsahl-Mellingstedt, Hamburg, Germany",
+   "Luoshan, Henan, China",
+   "Mount Plymouth, Lake County, Florida, United States",
+   "Pahrump, Nye County, Nevada, United States",
+   "Puyang, Henan, China",
+   "Reading, Middlesex County, Massachusetts, United States",
+   "Suresnes, \u00cele-de-France, France",
+   "Vinzier, Auvergne-Rh\u00f4ne-Alpes, France",
+   "West Haven, South Central Connecticut Planning Region, Connecticut, United States",
+   "Westlake Village, Los Angeles County, California, United States",
+   "Xuhui, Shanghai, China",
+   "Yat\u00e9-Barrage, South Province, New Caledonia",
+   "\u0160kaljari, Kotor, Montenegro"
+  ],
+  "models": [
+   "Avata",
+   "FPV",
+   "Inspire2",
+   "Matrice210V2",
+   "Matrice30",
+   "Matrice300RTK",
+   "Matrice350RTK",
+   "Matrice600Pro",
+   "Mavic Pro",
+   "Mavic2",
+   "Mavic3Enterprise",
+   "MavicAir",
+   "MavicAir2",
+   "MavicAir2S",
+   "MavicPro",
+   "Mini2",
+   "Mini4Pro",
+   "OrangeCV600",
+   "Phantom 3 Standard",
+   "Phantom3Advanced",
+   "Phantom3Pro",
+   "Phantom3Standard",
+   "Phantom4Advanced",
+   "Phantom4Pro",
+   "Spark",
+   "Unidentified DJI (V1-era DAT, product code 6)",
+   "Unidentified DJI (V3-era DAT, product code 89)",
+   "Unknown(120)",
+   "Unknown(137)",
+   "Unknown(139)",
+   "Unknown(158)",
+   "Unknown(181)",
+   "Unknown(185)",
+   "Unknown(95)"
+  ],
+  "errors": [],
+  "failed_artifacts": [],
+  "custody_ok": true
+ }
+]

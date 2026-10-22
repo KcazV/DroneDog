@@ -1,0 +1,35 @@
+[package]
+name = "dronedog_core"
+version = "0.1.0"
+edition = "2021"
+description = "DroneDog forensic core: DJI flight-log detection and parsing (offline, read-only)"
+license = "MIT"
+publish = false
+
+[lib]
+name = "dronedog_core"
+crate-type = ["cdylib", "rlib"]
+
+[features]
+default = ["python"]
+# The PyO3 bindings. `cargo test --no-default-features` builds and tests the pure-Rust
+# logic without needing a Python interpreter to link against.
+python = ["dep:pyo3"]
+
+[dependencies]
+# Used strictly as an offline library. We never call fetch_keychains / KeychainsRequest::fetch.
+# NOTE: dji-log-parser 0.5.7 declares `ureq` as a non-optional native dependency, so the HTTP
+# client is linked in; it is unreachable from our code (see tests/offline_guard.rs).
+dji-log-parser = { version = "=0.5.7", default-features = false }
+chrono = { version = "0.4", default-features = false, features = ["std", "clock"] }
+serde_json = { version = "1", features = ["float_roundtrip"] }
+pyo3 = { version = "0.23", features = ["extension-module", "abi3-py39"], optional = true }
+
+[dev-dependencies]
+sha2 = "0.10"
+
+[profile.release]
+# Keep unwinding so a panic inside a dependency becomes a Python exception, never an abort.
+panic = "unwind"
+lto = "thin"
+codegen-units = 4

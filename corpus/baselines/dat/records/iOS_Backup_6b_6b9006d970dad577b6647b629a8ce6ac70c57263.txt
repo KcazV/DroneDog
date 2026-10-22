@@ -1,0 +1,46 @@
+sha256: 0272e18f0b419e42d97d888f5621f9759bd5c7a1cb26993e7ed2f8cf3ad9ec7c
+file: 6b9006d970dad577b6647b629a8ce6ac70c57263
+kind: dat_v3  model: Unidentified DJI (V3-era DAT, product code 41)  product_code: 41  build: BUILD Aug 17 2018 23:33:36
+clock: 3840000.0 Hz (header u32@0x30: 3840000)  records start at 256
+header serial (XOR 0x55 @0x3A): 0M6DF73001P5JS   hex id @0x4A: None
+records ok: 106005  crc16 fail: 9  crc8 fail: 0  bad length: 0  resyncs: 9  skipped bytes: 1234  zero pad: 0  truncated tail: 0
+tick rollovers: 0  protover!=0: 0  len>255: 0  seq dropped: 177  jump dropped: 1
+UTC anchor: least-squares (intervals did not intersect) over 884 GPS second transitions, rate 3839362.4 Hz (nominal 3840000.0), bound +/-0.196 s, first tick UTC 2018-09-26T18:31:27.049Z
+duration: 1016.832 s   tablet/app-side (no type 12): True
+
+  type    hex name                        count  decoded   failed   rate_hz  payload lengths
+    13   000D osd_home                      882      882        0      1.00  74
+    16   0010                              4410        0        0      4.99  4
+   112   0070 recdef:err_code               883        0        0      1.00  35
+   999   03E7 recdef:serial_api_inputs     4413        0        0      5.00  18
+  1000   03E8 controller                   4413        0        0      5.00  55
+  1001   03E9 aircraft_condition            840        0        0      0.95  10
+  1121   0461 svo_avoid                    4412        0        0      4.99  14
+  1200   04B0                               640        0        0      0.99  18
+  1203   04B3 recdef:ctrl_acc_vert_deb      640        0        0      0.99  7
+  1300   0514 recdef:ctrl_horiz_module      640        0        0      0.99  69
+  1305   0519 recdef:ctrl_horiz_ang_ve     6409        0        0      9.88  25
+  1306   051A recdef:ctrl_allocation_d     6409        0        0      9.88  48
+  1307   051B recdef:ctrl_horiz_motor_     6409        0        0      9.88  17
+  1710   06AE battery_info                 4412     4384        0      4.99  104
+  2048   0800 imu_atti_0                   8822     8140        0      9.99  120
+  2049   0801 imu_atti_1                   8820     8137        0      9.98  120
+  2064   0810 imu_ex_0                     2207        0        0      2.50  60
+  2065   0811 imu_ex_1                     2204        0        0      2.49  60
+  2096   0830 gps_0                        4412     4411        0      4.99  72
+  2208   08A0 recdef:ATTI_MINI0            1767        0        0      2.00  40
+  2211   08A3                              2206        0        0      2.50  128
+  2215   08A7 recdef:vio_data              4411        0        0      4.99  124
+ 10085   2765 recdef:ns_data_debug         4413        0        0      5.00  76
+ 10086   2766 recdef:ns_data_component     4414        0        0      4.34  4
+ 10090   276A esc_data                     8821     7977        0      9.99  184
+ 10100   2774 airspeed_comp                  44        0        0      0.05  9
+ 32768   8000 fly_log_text                 7103        0        0      7.02  52(x1558),56(x1558),80(x1556),84(x1556)
+ 65533   FFFD rec_defs                      549        0        0     22.24  22(x85),21(x63),20(x54),24(x54)
+
+recDefs (type 0xFFFD) define 24 record types
+
+warning: fast path: record CRC-16 verified for every record used in frames, events and the UTC anchor; framing of other records validated by header CRC-8 and chain continuity
+warning: 9 damaged record starts skipped (0.008% of records); scan resynchronised 9 times
+warning: 177 records with non-increasing tick were excluded from frames (DatCon sequence rule)
+warning: 1 records excluded for a tick jump > 22,000,000 (DatCon rule)

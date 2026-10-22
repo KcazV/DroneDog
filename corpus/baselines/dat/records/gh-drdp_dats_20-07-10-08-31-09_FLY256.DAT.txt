@@ -1,0 +1,43 @@
+sha256: d04912300e0b4873c458035230011b87e9904e03fd4faaed5f31f638d7c6d4b4
+file: 20-07-10-08-31-09_FLY256.DAT
+kind: dat_v3  model: Mavic Pro  product_code: 16  build: BUILD Nov 16 2017 10:30:14
+clock: 4500000.0 Hz (header u32@0x30: 4500000)  records start at 256
+header serial (XOR 0x55 @0x3A): 08RDE4E00102YL   hex id @0x4A: fc36fa652832861d630e5385bc785363
+records ok: 34778  crc16 fail: 9  crc8 fail: 0  bad length: 0  resyncs: 9  skipped bytes: 995  zero pad: 0  truncated tail: 0
+tick rollovers: 0  protover!=0: 0  len>255: 0  seq dropped: 163  jump dropped: 7
+UTC anchor: least-squares (intervals did not intersect) over 289 GPS second transitions, rate 4499781.0 Hz (nominal 4500000.0), bound +/-0.390 s, first tick UTC 2020-07-10T12:30:55.642Z
+duration: 386.118 s   tablet/app-side (no type 12): True
+
+  type    hex name                        count  decoded   failed   rate_hz  payload lengths
+    16   0010                              1410        0        0      3.79  4
+    29   001D                              1384        0        0      3.71  80
+   112   0070                               261        0        0      0.70  35
+  1000   03E8 controller                   1353     1350        0      3.63  53
+  1001   03E9 aircraft_condition           1355        0        0      3.64  16
+  1002   03EA serial_api_inputs             132        0        0      0.35  23
+  1004   03EC go_home_info                   35        0        0      2.02  90
+  1121   0461 svo_avoid                    1334        0        0      3.73  15
+  1200   04B0 recdef:ctrl_vert_debug        254        0        0      0.71  28
+  1203   04B3 recdef:ctrl_acc_vert_deb      254        0        0      0.71  7
+  1300   0514 recdef:ctrl_horiz_debug       254        0        0      0.71  117
+  1305   0519 recdef:ctrl_horiz_ang_ve     5215        0        0     14.58  24
+  1306   051A recdef:ctrl_horiz_ccpm_d     1308        0        0      3.65  20
+  1307   051B recdef:ctrl_horiz_motor_     5216        0        0     14.58  16
+  1710   06AE battery_info                 1354     1352        0      3.64  44
+  1712   06B0 smart_battery_info           1401        0        0      3.76  10
+  2048   0800 imu_atti_0                   2750     2559        0      7.38  120
+  2064   0810 imu_ex_0                     2749        0        0      7.38  64
+  2096   0830 gps_0                        1367     1358        0      3.67  72
+  2208   08A0 recdef:ATTI_MINI0             682        0        0      1.83  40
+ 10085   2765 recdef:ns_data_debug         1336        0        0      3.59  80
+ 10086   2766 recdef:ns_data_component     1336        0        0      3.59  4
+ 10090   276A esc_data                     1350     1350        0      3.62  185
+ 32768   8000 fly_log_text                  207        0        0      0.53  60(x20),67(x17),46(x13),95(x12)
+ 65533   FFFD rec_defs                      481        0        0      1.38  22(x66),21(x64),23(x50),24(x47)
+
+recDefs (type 0xFFFD) define 18 record types
+
+warning: fast path: record CRC-16 verified for every record used in frames, events and the UTC anchor; framing of other records validated by header CRC-8 and chain continuity
+warning: 9 damaged record starts skipped (0.026% of records); scan resynchronised 9 times
+warning: 163 records with non-increasing tick were excluded from frames (DatCon sequence rule)
+warning: 7 records excluded for a tick jump > 22,000,000 (DatCon rule)

@@ -1,0 +1,19 @@
+﻿.venv/
+corpus/raw/
+corpus/_downloads/
+corpus/_work/
+corpus/demo/
+corpus/cfreds_listing.txt
+core/target/
+__pycache__/
+*.pyd
+*.egg-info/
+dist/
+build/
+cases/
+release/
+
+# local-only notes (not published)
+HANDOFF.md
+CLAUDE.md
+.claude/

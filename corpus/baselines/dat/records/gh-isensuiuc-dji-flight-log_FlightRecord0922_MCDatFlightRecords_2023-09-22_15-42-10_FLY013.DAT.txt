@@ -1,0 +1,55 @@
+sha256: 539b6cbb2f7511302bb45810f469a81fac05487f396b017ba3aa90cd1a3f2ff7
+file: 2023-09-22_15-42-10_FLY013.DAT
+kind: dat_v3  model: Unidentified DJI (V3-era DAT, product code 89)  product_code: 89  build: BUILD Jun 16 2023 21:12:36
+clock: 3840000.0 Hz (header u32@0x30: 3840000)  records start at 256
+header serial (XOR 0x55 @0x3A): 1581F6GKB235K0   hex id @0x4A: None
+records ok: 7118  crc16 fail: 632  crc8 fail: 0  bad length: 0  resyncs: 624  skipped bytes: 79573  zero pad: 0  truncated tail: 0
+tick rollovers: 0  protover!=0: 0  len>255: 0  seq dropped: 6184  jump dropped: 3
+UTC anchor: interval-intersection@nominal over 11 GPS second transitions, rate 3840000.0 Hz (nominal 3840000.0), bound +/-0.090 s, first tick UTC 2023-09-22T19:41:06.610Z
+duration: 1108.383 s   tablet/app-side (no type 12): True
+
+  type    hex name                        count  decoded   failed   rate_hz  payload lengths
+    13   000D osd_home                      442       25        0      6.66  83
+    16   0010                               323        0        0      4.85  4
+   112   0070 recdef:err_code                64        0        0      0.95  35
+   999   03E7 recdef:serial_api_inputs       61        0        0      0.92  18
+  1000   03E8 controller                    146        0       11      2.18  60
+  1001   03E9 aircraft_condition             63        0        0      0.95  10
+  1121   0461 svo_avoid                     332        0        0      5.00  19
+  1398   0576                                30        0        0      0.45  32
+  1710   06AE battery_info                   49        0        7      0.73  151
+  2048   0800 imu_atti_0                    539       60        0      8.11  120
+  2049   0801 imu_atti_1                    531       62        0      7.98  120
+  2064   0810 imu_ex_0                      155        0        0      2.33  60
+  2065   0811 imu_ex_1                      154        0        0      2.32  60
+  2096   0830 gps_0                         318       46        0      4.79  76
+  2208   08A0                               123        0        0      1.85  40
+  2211   08A3                               153        0        0      2.30  128
+  2215   08A7                               316        0        0      4.76  124
+ 10085   2765                               138        0        0      2.09  76
+ 10086   2766                               161        0        0      2.42  4
+ 10090   276A esc_data                      561        0       59      8.43  156
+ 10100   2774 airspeed_comp                   3        0        0      0.05  10
+ 20014   4E2E                                64        0        0      0.97  8
+ 21808   5530                                 1        0        0      0.00  76
+ 32768   8000 fly_log_text                  244        0        0      2.11  84(x57),63(x21),67(x21),37(x18)
+ 53234   CFF2                               318        0        0      4.77  78
+ 60801   ED81                                63        0        0      0.95  56
+ 60802   ED82                                66        0        0      1.00  56
+ 60803   ED83                               130        0        0      1.95  20
+ 60804   ED84                               652        0        0      9.80  10
+ 60806   ED86                                12        0        0      0.18  3
+ 61761   F141                               105        0        0      1.58  110
+ 61781   F155                               101        0        0      1.56  110
+ 65533   FFFD rec_defs                      700        0        0     16.31  22(x152),21(x71),20(x61),23(x61)
+
+recDefs (type 0xFFFD) define 9 record types
+
+warning: type 1000 len 60 decode error: controller length 60 not in known layouts
+warning: type 1710 len 151 decode error: battery_info length 151 has no engineered layout
+warning: type 10090 len 156 decode error: esc_data length 156 has no engineered layout
+warning: fast path: record CRC-16 verified for every record used in frames, events and the UTC anchor; framing of other records validated by header CRC-8 and chain continuity
+warning: 632 damaged record starts skipped (8.155% of records); scan resynchronised 624 times
+warning: damage exceeds DatCon's 2%% abort threshold; DatCon 3.5 would stop converting this file early
+warning: 6184 records with non-increasing tick were excluded from frames (DatCon sequence rule)
+warning: 3 records excluded for a tick jump > 22,000,000 (DatCon rule)

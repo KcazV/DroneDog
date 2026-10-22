@@ -1,0 +1,60 @@
+sha256: 4349bd3873c7743777ae00959dea2c413c698b23699c1330a40f9bcb757e7c7f
+file: 2023-09-22_16-55-52_FLY016.DAT
+kind: dat_v3  model: Unidentified DJI (V3-era DAT, product code 89)  product_code: 89  build: BUILD Jun 16 2023 21:12:36
+clock: 3840000.0 Hz (header u32@0x30: 3840000)  records start at 256
+header serial (XOR 0x55 @0x3A): 1581F6GKB235K0   hex id @0x4A: None
+records ok: 19013  crc16 fail: 619  crc8 fail: 0  bad length: 0  resyncs: 603  skipped bytes: 76379  zero pad: 0  truncated tail: 0
+tick rollovers: 0  protover!=0: 0  len>255: 0  seq dropped: 17426  jump dropped: 3
+UTC anchor: interval-intersection@nominal over 19 GPS second transitions, rate 3840000.0 Hz (nominal 3840000.0), bound +/-0.087 s, first tick UTC 2023-09-22T20:55:10.462Z
+duration: 192.814 s   tablet/app-side (no type 12): True
+
+  type    hex name                        count  decoded   failed   rate_hz  payload lengths
+    13   000D osd_home                     1116       40        0      6.89  83
+    16   0010                               804        0        0      4.97  4
+   112   0070                               157        0        0      0.97  35
+   999   03E7 recdef:serial_api_inputs      160        0        0      0.99  18
+  1000   03E8 controller                    395        0        0      2.44  60
+  1001   03E9 aircraft_condition            154        0        0      0.95  10
+  1121   0461 svo_avoid                     810        0        0      5.00  19
+  1200   04B0                               136        0        0      1.00  18
+  1203   04B3                               136        0        0      1.00  7
+  1300   0514 recdef:ctrl_horiz_module      135        0        0      0.99  90
+  1302   0516 recdef:ctrl_horiz_vel_de       67        0        0      0.49  45
+  1304   0518 recdef:ctrl_horiz_atti_d      338        0        0      2.47  50
+  1305   0519                               168        0        0      1.23  25
+  1306   051A recdef:ctrl_allocation_d      330        0        0      2.41  49
+  1307   051B recdef:ctrl_horiz_motor_      675        0        0      4.93  17
+  1398   0576 recdef:mission_cfg_atti_       78        0        0      0.48  32
+  1710   06AE battery_info                  143       11        0      0.89  151
+  2048   0800 imu_atti_0                   1559      132        0      9.62  120
+  2049   0801 imu_atti_1                   1509      107        0      9.32  120
+  2064   0810 imu_ex_0                      399        0        0      2.46  60
+  2065   0811 imu_ex_1                      403        0        0      2.49  60
+  2096   0830 gps_0                         783       73        0      4.84  76
+  2208   08A0                               321        0        0      1.98  40
+  2211   08A3                               371        0        0      2.29  128
+  2215   08A7                               728        0        0      4.50  124
+ 10085   2765                               392        0        0      2.43  76
+ 10086   2766                               405        0        0      2.50  4
+ 10090   276A esc_data                     1533        0      114      9.46  156
+ 10100   2774 airspeed_comp                   8        0        0      0.05  10
+ 20014   4E2E                               157        0        0      0.98  8
+ 32768   8000 fly_log_text                  354        0        0      1.83  67(x50),37(x44),45(x40),63(x35)
+ 53234   CFF2                               744        0        0      4.60  78
+ 60801   ED81                               162        0        0      1.00  56
+ 60802   ED82                               162        0        0      1.00  56
+ 60803   ED83                               323        0        0      1.99  20
+ 60804   ED84                              1617        0        0      9.98  10
+ 60806   ED86                                33        0        0      0.20  3
+ 61761   F141                               266        0        0      1.65  110
+ 61781   F155                               268        0        0      1.65  110
+ 65533   FFFD rec_defs                      714        0        0     16.75  22(x149),21(x72),20(x61),23(x59)
+
+recDefs (type 0xFFFD) define 14 record types
+
+warning: type 10090 len 156 decode error: esc_data length 156 has no engineered layout
+warning: fast path: record CRC-16 verified for every record used in frames, events and the UTC anchor; framing of other records validated by header CRC-8 and chain continuity
+warning: 619 damaged record starts skipped (3.153% of records); scan resynchronised 603 times
+warning: damage exceeds DatCon's 2%% abort threshold; DatCon 3.5 would stop converting this file early
+warning: 17426 records with non-increasing tick were excluded from frames (DatCon sequence rule)
+warning: 3 records excluded for a tick jump > 22,000,000 (DatCon rule)

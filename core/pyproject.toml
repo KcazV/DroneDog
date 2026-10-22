@@ -1,0 +1,14 @@
+[build-system]
+requires = ["maturin>=1.5,<2.0"]
+build-backend = "maturin"
+
+[project]
+name = "dronedog-core"
+version = "0.1.0"
+description = "DroneDog forensic core (Rust): DJI flight-log detection and parsing, offline"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+
+[tool.maturin]
+module-name = "dronedog_core"
+features = ["python"]
