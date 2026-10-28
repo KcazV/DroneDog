@@ -271,7 +271,7 @@ def parse_one(case: Case, a: dict, summary: dict, cancel=None) -> dict | None:
     dt = time.perf_counter() - t0
     try:
         digest = sha256_bytes(canonical(result).encode("utf-8"))
-        src = flight_source(adapter.name, det, sources)
+        src = flight_source(adapter.name, det, sources, result)
         stored = case.store_flight(a["id"], result, src, digest)
         try:  # derived examiner summary, stored beside (not inside) the hashed parse result
             from .analysis.summary import summarize_result

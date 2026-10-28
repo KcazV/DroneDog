@@ -1530,6 +1530,7 @@ class DatDecode:
         gps_ok = False
         home = None
         maxh, maxhs, maxvs = None, None, None
+        bad_pos = 0
         for tick, st in zip(self.row_ticks, self.rows):
             osd = st.get("osd")
             imu = st.get("imu0")
@@ -1554,6 +1555,7 @@ class DatDecode:
                 lat = lon = None   # < 0.0175 rad: DatCon's "no lock" test
             if lat is not None and not (abs(lat) <= 90.0 and abs(lon) <= 180.0):
                 lat = lon = None   # NaN/inf/out of range: payload is not a position
+                bad_pos += 1
             cols["lat"].append(lat)
             cols["lon"].append(lon)
             height = osd["height_m"] if osd is not None else None
@@ -1664,6 +1666,13 @@ class DatDecode:
                                     math.radians(la), math.radians(lo))
             plat, plon = la, lo
         d["total_distance_m"] = round(dist, 1) if plat is not None else None
+        if bad_pos:
+            msg = ("%d of %d frames had a position that is not a valid coordinate (NaN, infinite "
+                   "or out of range) and were left without lat/lon; the position record layout "
+                   "for this platform (product code %s) may differ from the known one"
+                   % (bad_pos, len(self.rows), h.product_code))
+            if msg not in self.warnings:
+                self.warnings.append(msg)
         return cols
 
     def parse_result(self) -> Dict[str, Any]:

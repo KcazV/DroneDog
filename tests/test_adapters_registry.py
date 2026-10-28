@@ -66,6 +66,11 @@ def test_flight_source():
     assert flight_source("txt_djilog", {"kind": "dji_txt"}, []) == "app-txt"
     assert flight_source("dat_core", {"kind": "dji_dat"}, [{"inner_path": "p1/MISC/LOG/FLY1.DAT"}]) == "aircraft-dat"
     assert flight_source("dat_core", {"kind": "dji_dat", "subtype": "dat_controller"}, []) == "controller-dat"
+    mc = [{"inner_path": "UAVLogical-DJIRCRM331/CFID_DECODED_FLIGHTLOGS/MCDatFlightRecords/"
+                         "2026-07-10_18-19-28_FLY001.DAT"}]
+    assert flight_source("dat_ref_py", {"kind": "dji_dat", "subtype": "dat_v3"}, mc) == "controller-dat"
+    assert flight_source("dat_ref_py", {"kind": "dji_dat", "subtype": "dat_v3"}, [],
+                         {"_source_hint": "controller-dat"}) == "controller-dat"
 
 
 def test_no_core_fallback_then_case_run(tmp_path, monkeypatch):

@@ -38,6 +38,7 @@ def test_non_finite_positions_do_not_raise(fast):
                     for i in range(20))
     res = M.DatDecode(_dat(recs), "2026-07-10_18-19-28_FLY001.DAT", header=None, fast=fast).run().parse_result()
     assert all(v is None for v in res["frames"]["lat"])
+    assert any("not a valid coordinate" in w for w in res["warnings"])
 
 
 @pytest.mark.parametrize("fast", [True, False])

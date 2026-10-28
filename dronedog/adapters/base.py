@@ -54,7 +54,7 @@ def normalize_result(r: dict) -> dict:
     return r
 
 
-def flight_source(adapter_name: str, detection: dict, sources: list[dict]) -> str:
+def flight_source(adapter_name: str, detection: dict, sources: list[dict], result: dict | None = None) -> str:
     """C5 flights.source: app-txt | aircraft-dat | controller-dat."""
     if detection.get("kind") in ("dji_txt", "dji_app_tips") or adapter_name.startswith("txt") \
             or adapter_name == "app_tips_json":
@@ -62,6 +62,9 @@ def flight_source(adapter_name: str, detection: dict, sources: list[dict]) -> st
     hint = " ".join([str(detection.get("subtype") or ""), " ".join(detection.get("reasons") or [])]).lower()
     paths = " ".join(str(s.get("inner_path") or "") for s in sources).lower()
     if "controller" in hint or "remote" in hint or "/rc/" in paths or "controller" in paths:
+        return "controller-dat"
+    # app/RC-side copy: MCDatFlightRecords folder, or the decoder saw no type 12 (DAT_FORMAT.md 8)
+    if "mcdatflightrecords" in paths or (result or {}).get("_source_hint") == "controller-dat":
         return "controller-dat"
     return "aircraft-dat"
 
