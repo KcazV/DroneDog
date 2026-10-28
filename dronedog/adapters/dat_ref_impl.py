@@ -1063,8 +1063,11 @@ def haversine_m(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     """DatCon Util.distance: haversine, R = 6371 km, inputs in radians."""
     if lat1 == 0.0 or lon1 == 0.0 or lat2 == 0.0 or lon2 == 0.0:
         return 0.0
+    if not all(map(math.isfinite, (lat1, lon1, lat2, lon2))):
+        return 0.0        # undecodable position (unknown record layout): no distance
     dlat, dlon = lat2 - lat1, lon2 - lon1
     a = math.sin(dlat / 2) ** 2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon / 2) ** 2
+    a = min(max(a, 0.0), 1.0)  # rounding can push a past 1 for garbage inputs
     return 6371.0 * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a)) * 1000.0
 
 
@@ -1227,6 +1230,9 @@ class DatDecode:
                         self.jump_dropped += 1
                     last = t
         A = np.flatnonzero(acc)
+        if len(A) == 0:   # every record failed the sequence/jump rules
+            self._finish()
+            return self
         at = tick[A]
         aty = typ[A]
         self.first_tick = int(at[0])
@@ -1546,6 +1552,8 @@ class DatDecode:
                 lat = lon = None   # never 0,0 (C3)
             if lat is not None and (abs(lat) < 1.0 and abs(lon) < 1.0):
                 lat = lon = None   # < 0.0175 rad: DatCon's "no lock" test
+            if lat is not None and not (abs(lat) <= 90.0 and abs(lon) <= 180.0):
+                lat = lon = None   # NaN/inf/out of range: payload is not a position
             cols["lat"].append(lat)
             cols["lon"].append(lon)
             height = osd["height_m"] if osd is not None else None
