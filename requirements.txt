@@ -7,6 +7,7 @@ pytsk3==20260715          # The Sleuth Kit 4.15 bindings: volume systems + FAT/e
 libewf-python==20260924   # pyewf: E01/Ex01 segment sets
 pywebview==6.2.1          # desktop window host (ui/)
 psutil==7.2.2             # ui/netmon.py: OS socket view of the app + WebView2 processes (D11)
+numpy==2.5.3              # places geocoder (analysis/geocode.py) + DAT decoder fast path
 
 # --- build / test (not shipped) ------------------------------------------------
 maturin==1.15.0           # builds core/ into the venv
