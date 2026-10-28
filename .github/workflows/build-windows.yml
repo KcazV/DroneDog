@@ -1,0 +1,63 @@
+# Builds the portable Windows package (release/DroneDog-portable.zip) on a clean runner,
+# the same way tools/make_release.py does on a workstation. The zip is uploaded as a
+# workflow artifact; publishing a GitHub Release stays a manual step.
+name: build-windows
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["ccr-*", "release/*"]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Rust toolchain
+        run: rustup toolchain install stable --profile minimal && rustup default stable
+
+      - name: venv + dependencies
+        shell: pwsh
+        run: |
+          python -m venv .venv
+          .venv\Scripts\python -m pip install --upgrade pip
+          .venv\Scripts\python -m pip install -r requirements.txt pyinstaller
+          .venv\Scripts\python -m pip freeze
+
+      - name: Build Rust core (dronedog_core)
+        shell: pwsh
+        run: |
+          .venv\Scripts\maturin build -m core\Cargo.toml --release --out core\target\wheels
+          .venv\Scripts\python -m pip install (Get-ChildItem core\target\wheels\*.whl).FullName
+          .venv\Scripts\python -c "import dronedog_core; print(dronedog_core.__file__)"
+
+      - name: Tests
+        shell: pwsh
+        run: .venv\Scripts\python -m pytest -q -p no:cacheprovider
+
+      - name: Rust core tests
+        run: cargo test --manifest-path core\Cargo.toml --release
+
+      - name: Package (blank portable app)
+        shell: pwsh
+        run: .venv\Scripts\python tools\make_release.py --no-kit
+
+      - name: Check package output
+        shell: pwsh
+        run: |
+          if (!(Test-Path dist\DroneDog\DroneDog.exe)) { throw "DroneDog.exe missing" }
+          Get-Content release\DroneDog-portable.zip.sha256
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: DroneDog-portable-${{ github.sha }}
+          path: |
+            release/DroneDog-portable.zip
+            release/DroneDog-portable.zip.sha256
+          if-no-files-found: error
